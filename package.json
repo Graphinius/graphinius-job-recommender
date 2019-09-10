@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "graphinius": "^0.9.8"
+    "graphinius": "^0.9.8",
+    "uuid": "^3.3.3"
   },
   "devDependencies": {
     "@types/node": "^12.7.4"
