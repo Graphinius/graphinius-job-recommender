@@ -4,6 +4,10 @@ import * as uuid from 'uuid';
 import { ITypedEdge } from 'graphinius/lib/core/typed/TypedEdge';
 import { ITypedNode, TypedAdjSets } from 'graphinius/lib/core/typed/TypedNode';
 import { TypedGraph } from 'graphinius/lib/core/typed/TypedGraph';
+import {BFS} from 'graphinius/lib/search/BFS';
+import {DFS} from 'graphinius/lib/search/DFS';
+import {PFS} from 'graphinius/lib/search/PFS';
+import {Pagerank} from 'graphinius/lib/centralities/Pagerank';
 
 const v4 = uuid.v4;
 
@@ -21,6 +25,26 @@ const v4 = uuid.v4;
 
   createApps(g);
   console.log(g.stats);
+
+  let tic = +new Date();
+  BFS(g, g.getRandomNode());
+  let toc = +new Date();
+  console.log(`BFS on ~3M object graph took ${toc-tic} ms.`);
+
+  tic = +new Date();
+  DFS(g, g.getRandomNode());
+  toc = +new Date();
+  console.log(`DFS on ~3M object graph took ${toc-tic} ms.`);
+
+  tic = +new Date();
+  PFS(g, g.getRandomNode());
+  toc = +new Date();
+  console.log(`PFS on ~3M object graph took ${toc-tic} ms.`);
+
+  tic = +new Date();
+  new Pagerank(g).computePR();
+  toc = +new Date();
+  console.log(`Pagerank on ~1.4M  node graph took ${toc-tic} ms.`);
 })();
 
 
