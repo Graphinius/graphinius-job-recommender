@@ -35,9 +35,9 @@ function createUsers(g: TypedGraph) {
     const line_arr = line.split('\t');
 
     const node = g.addNodeByID('user_' + line_arr[0], { type: 'User' });
-    for (let i = 1; i < users_columns.length; i++) {
-      node.setFeature(users_columns[i], line_arr[i]);
-    }
+    // for (let i = 1; i < users_columns.length; i++) {
+    //   node.setFeature(users_columns[i], line_arr[i]);
+    // }
   });
 }
 
@@ -69,9 +69,9 @@ function createJobs(g: TypedGraph) {
       }
 
       node = g.addNodeByID(jid, { type: 'Job' });
-      for (let i = 1; i < jobs_columns.length; i++) {
-        node.setFeature(jobs_columns[i], line_arr[i]);
-      }
+      // for (let i = 1; i < jobs_columns.length; i++) {
+      //   node.setFeature(jobs_columns[i], line_arr[i]);
+      // }
       jobIDs[jid] = true;
     });
 

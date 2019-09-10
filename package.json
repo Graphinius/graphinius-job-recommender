@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
     "graphinius": "^0.9.8",
+    "restify": "^8.4.0",
     "uuid": "^3.3.3"
   },
   "devDependencies": {
