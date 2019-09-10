@@ -1,5 +1,6 @@
 import * as fs from 'fs';
 import * as path from 'path';
+import * as stream from 'stream';
 import * as readline from 'readline';
 import { ITypedEdge } from 'graphinius/lib/core/typed/TypedEdge';
 import { ITypedNode } from 'graphinius/lib/core/typed/TypedNode';
@@ -13,17 +14,24 @@ const allUsers = path.join(__dirname, '../data/original/users.tsv');
 
 (async () => {
   const g = new TypedGraph('job recommender BIG');
+  
+  await createUsers(g);
+  
+  // never reaches this line...
+  console.log(g.stats);
+})();
 
-  const rl = readline.createInterface({
-    input: fs.createReadStream(allUsers) // first1KUsersFile
-  });
 
+
+async function createUsers(g: TypedGraph) {
+  const input = fs.createReadStream(allUsers);
   let line_no = 0;
-
-  // event is emitted after each line
-  rl.on('line', line => {
+  for await (const line of readLines({input})) {
+    if ( !line ) {
+      return g.stats;
+    }
     if (line_no++ === 1) {
-      return;
+      continue;
     }
     const line_arr = line.split('\t');
     // console.log(line_arr);
@@ -31,15 +39,23 @@ const allUsers = path.join(__dirname, '../data/original/users.tsv');
     for (let i = 1; i < users_columns.length; i++) {
       node.setFeature(users_columns[i], line_arr[users_columns[i]]);
     }
-  });
+  }
+}
 
+
+function readLines({input}) {
+  const output = new stream.PassThrough({ objectMode: true });
+  const rl = readline.createInterface({input});
+
+  // event is emitted after each line
+  rl.on('line', line => {
+    output.write(line);
+  });
 
   // end
   rl.on('close', function (line) {
-    console.log(g.stats);
-    console.log('Total lines read : ' + line_no);
+    output.push(null);
   });
 
-})();
-
-
+  return output;
+}
