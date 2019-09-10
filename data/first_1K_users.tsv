@@ -1,0 +1,1000 @@
+UserID	WindowID	Split	City	State	Country	ZipCode	DegreeType	Major	GraduationDate	WorkHistoryCount	TotalYearsExperience	CurrentlyEmployed	ManagedOthers	ManagedHowMany
+47	1	Train	Paramount	CA	US	90723	High School		1999-06-01 00:00:00	3	10	Yes	No	0
+72	1	Train	La Mesa	CA	US	91941	Master's	Anthropology	2011-01-01 00:00:00	10	8	Yes	No	0
+80	1	Train	Williamstown	NJ	US	08094	High School	Not Applicable	1985-06-01 00:00:00	5	11	Yes	Yes	5
+98	1	Train	Astoria	NY	US	11105	Master's	Journalism	2007-05-01 00:00:00	3	3	Yes	No	0
+123	1	Train	Baton Rouge	LA	US	70808	Bachelor's	Agricultural Business	2011-05-01 00:00:00	1	9	Yes	No	0
+131	1	Train	Houston	TX	US	77077	Bachelor's	Finance	1998-05-01 00:00:00	3	14		No	0
+162	1	Train	Long Beach	CA	US	90807	Master's	I/O Psychology	2012-05-01 00:00:00	10	25	No	No	0
+178	1	Train	Greenville	SC	US	29609	High School	Not Applicable		6	35	No	Yes	4
+203	1	Train	Colchester	VT	US	05446	Master's	Burlington		4	3	Yes	No	0
+344	1	Train	Newport News	VA	US	23601	High School	Not Applicable	2007-01-01 00:00:00	3	7	Yes	No	0
+395	1	Train	Wildwood	MO	US	63038	Bachelor's	Marketing		10	24	Yes	No	0
+411	1	Train	Lutz	FL	US	33559	None			3	11	Yes	Yes	1
+415	1	Train	Leland	NC	US	28451	Associate's	Office Systems Technology	2008-05-01 00:00:00	5	7		No	0
+437	1	Train	Brookville	OH	US	45309	Associate's	Nursing	2010-05-01 00:00:00	4	15	Yes	No	0
+483	1	Train	York	PA	US	17406	Bachelor's	Accounting	1989-01-01 00:00:00	6	22		No	0
+496	1	Train	Easley	SC	US	29640	High School	Not Applicable	1987-01-01 00:00:00	10	21	No	No	0
+501	1	Train	Cape Coral	FL	US	33990	Bachelor's			4	37	No	No	0
+524	1	Train	Florence	SC	US	29501	Bachelor's	Restaurant and Tourism Management		5	20	Yes	No	0
+534	1	Train	Nashville	TN	US	37214	High School	Not Applicable	2009-01-01 00:00:00	3	4	No	No	0
+547	1	Train	Milford	CT	US	06460	High School	Not Applicable	1989-01-01 00:00:00	7	23		No	0
+553	1	Train	Debary	FL	US	32713	Bachelor's			3	10		No	0
+554	1	Train	Altamonte Springs	FL	US	32701	Bachelor's	Legal Studies	2006-12-01 00:00:00	2	4	No	No	0
+555	1	Train	Saint Petersburg	FL	US	33712	High School	Physical education	2011-01-01 00:00:00	0		No	No	0
+589	1	Train	Ventura	CA	US	93003	Associate's		1997-06-01 00:00:00	5	26	No	Yes	75
+640	1	Train	Cooper City	FL	US	33330	None			4	34		No	0
+644	1	Train	Galloway	NJ	US	08205	Bachelor's	Criminal Justice		4	4	Yes	No	0
+645	1	Train	Dallas	TX	US	75234	High School	Not Applicable		2	13	Yes	No	0
+655	1	Train	Glendale	AZ	US	85308	Bachelor's	Criminal Justice	2012-05-01 00:00:00	3	5	Yes	No	0
+682	1	Train	Mount Kisco	NY	US	10549	High School	Not Applicable	2005-01-01 00:00:00	4	7	Yes	No	0
+744	1	Train	Elkton	MD	US	21921	High School	Not Applicable	1994-06-01 00:00:00	5	17	No	No	0
+755	1	Train	Riverton	NJ	US	08077	Bachelor's	Management Information Systems	1985-01-01 00:00:00	7	32	Yes	Yes	8
+767	1	Test	Murrieta	CA	US	92562	Bachelor's	University Studies/Business	2008-05-01 00:00:00	5	16	No	No	0
+769	1	Test	Roselle	IL	US	60172	Bachelor's	Radio-Television	2011-05-01 00:00:00	5	5	Yes	No	0
+861	1	Test	Morris	IL	US	60450	High School	General Studies	1989-05-01 00:00:00	7	21		No	0
+886	1	Train	Gainesville	GA	US	30506	Bachelor's	Criminal Justice	2000-01-01 00:00:00	5	19		No	0
+908	1	Train	East Lansing	MI	US	48823	Bachelor's	Criminal Justice & Chinese	2012-05-01 00:00:00	6	4	Yes	No	0
+951	1	Train	Philadelphia	PA	US	19131	Bachelor's	Business Administration	2012-03-01 00:00:00	3	10		No	0
+966	1	Train	Charlotte	NC	US	28202	Associate's	Nursing Program	2008-05-01 00:00:00	6	14	Yes	No	0
+1006	1	Test	West Chester	PA	US	19382	High School	Not Applicable	2008-06-01 00:00:00	3	6	Yes	No	0
+1031	1	Train	Tacoma	WA	US	98404	Associate's		2000-06-01 00:00:00	3	9	No	No	0
+1045	1	Train	Charleston	WV	US	25312	High School	Not Applicable		5	4	Yes	No	0
+1113	1	Train	Ramsey	NJ	US	07446	None		2011-10-01 00:00:00	2	1	No	No	0
+1123	1	Train	Jacksonville	FL	US	32256	None	Civil Engineering and Architecture	2012-12-01 00:00:00	3	9	Yes	Yes	100
+1138	1	Train	Monroe	OH	US	45050	High School	Not Applicable	2007-01-01 00:00:00	4	4	Yes	No	0
+1192	1	Test	Cincinnati	OH	US	45255	Bachelor's	Marketing		5	6	Yes	No	0
+1201	1	Train	Depauw	IN	US	47115	High School	Not Applicable	1992-01-01 00:00:00	2	18	No	No	0
+1204	1	Train	Mertzon	TX	US	76941	Bachelor's	Management Information Systems	2012-05-01 00:00:00	3	5		No	0
+1206	1	Train	Upper Marlboro	MD	US	20774	Bachelor's	Elementary Education		3	10	Yes	Yes	30
+1226	1	Train	Cincinnati	OH	US	45245	None	Licensed Practical/Vocational Nurse Training (LPN, LVN, Cert	1988-12-01 00:00:00	8	23	No	No	0
+1244	1	Train	Baltimore	MD	US	21217	None			0		No	No	0
+1355	1	Train	Bronx	NY	US	10466	Associate's	Heating, Air Conditioning and Refrigeration Technology/Technician (ACH/ACR/ACHR/HRAC/HVAC/AC Technology)	2011-12-01 00:00:00	3	10		No	0
+1363	1	Train	Rochester	NY	US	14626	Bachelor's	Rhetoric & Communications	2011-12-01 00:00:00	3	4	Yes	No	0
+1374	1	Train	Paterson	NJ	US	07504	High School	Not Applicable	1998-06-01 00:00:00	8	13	No	No	0
+1486	1	Train	Conroe	TX	US	77301	High School	Not Applicable	2008-01-01 00:00:00	2	6	Yes	No	0
+1487	1	Train	Pawtucket	RI	US	02860	None	Certified Medical Assistant Candidate	2011-01-01 00:00:00	0			No	0
+1526	1	Train	Chicago	IL	US	60619	High School	Culinary Arts/Chef Training	2011-01-01 00:00:00	1	2	No	No	0
+1541	1	Train	Cold Spring	MN	US	56320	High School	Not Applicable	1985-05-01 00:00:00	9	25	No	No	0
+1563	1	Train	Oklahoma City	OK	US	73119	None	Health Insurance Association of America		5	31	Yes	No	0
+1610	1	Train	Huntersville	NC	US	28078	Bachelor's	Business/Commerce, General	2003-03-01 00:00:00	5	5	No	No	0
+1645	1	Train	Washington	DC	US	20020	Associate's	Hospitality Management	1998-01-01 00:00:00	4	12		No	0
+1657	1	Train	Birmingham	AL	US	35215	None		2009-01-01 00:00:00	2	10	Yes	No	0
+1697	1	Train	Justice	IL	US	60458	High School	Not Applicable	2007-01-01 00:00:00	4	6		No	0
+1721	1	Train	Staten Island	NY	US	10310	High School	Not Applicable		4	19	Yes	No	0
+1769	1	Train	Palmdale	CA	US	93550	None		2003-06-01 00:00:00	8	15		No	0
+1770	1	Train	Toledo	OH	US	43613	High School	Not Applicable		2	4	Yes	No	0
+1793	1	Train	Saint Augustine	FL	US	32084	Bachelor's	Communication	2012-04-01 00:00:00	3	2	Yes	No	0
+1800	1	Train	Chicago	IL	US	60653	High School	Not Applicable	1972-06-01 00:00:00	2	21	No	No	0
+1834	1	Train	Fort Worth	TX	US	76119	High School	Not Applicable		6	24	Yes	No	0
+1846	1	Train	Newportville	PA	US	19056	Associate's	Computer Electronics	2004-01-01 00:00:00	4	6	Yes	No	0
+1960	1	Train	Hialeah	FL	US	33010	None			3	22	No	No	0
+2003	1	Test	Louisville	KY	US	40258	High School			3	5	No	No	0
+2010	1	Train	Vallejo	CA	US	94589	None			0		No	No	0
+2011	1	Test	Jeffersonville	IN	US	47130	High School	HVAC	2006-01-01 00:00:00	1	4	No	Yes	30
+2017	1	Train	Litchfield Park	AZ	US	85340	None	research		4	22	Yes	No	0
+2032	1	Train	Haddonfield	NJ	US	08033	Master's	Social Work	2012-05-01 00:00:00	3	2	Yes	No	0
+2116	1	Train	Elizabeth	IN	US	47117	High School	Not Applicable		2	3	No	No	0
+2134	1	Train	Wilmington	DE	US	19805	High School	Not Applicable	2008-01-01 00:00:00	1	2		No	0
+2166	1	Train	Lilburn	GA	US	30047	High School	Not Applicable	1993-06-01 00:00:00	5	15	No	No	0
+2203	1	Train	Stratford	CT	US	06614	High School	Not Applicable	2003-01-01 00:00:00	3	10	No	No	0
+2204	1	Train	Phoenix	AZ	US	85012	Associate's	Electronics Engineering Technology	2001-01-01 00:00:00	3	10	No	No	0
+2241	1	Test	Moreno Valley	CA	US	92553	None	Advanced Supervision	2003-01-01 00:00:00	4	8		No	0
+2265	1	Train	Irving	TX	US	75061	Associate's			2	2	Yes	No	0
+2272	1	Test	Chicago	IL	US	60617	None		2012-04-01 00:00:00	2	13	Yes	No	0
+2304	1	Train	Lynchburg	VA	US	24501	Master's	Social Work	2012-04-01 00:00:00	1	0	No	No	0
+2327	1	Train	Georgetown	TX	US	78633	Associate's	General Studies	2005-01-01 00:00:00	7	11		No	0
+2337	1	Train	Austin	TX	US	78717	High School	Not Applicable		9	8	Yes	Yes	20
+2370	1	Train	Palm Bay	FL	US	32909	None			0		No	No	0
+2385	1	Train	Bay Shore	NY	US	11706	High School	Not Applicable	1989-01-01 00:00:00	3	24	Yes	No	0
+2386	1	Train	Honolulu	HI	US	96813	High School		2009-10-01 00:00:00	7	4		No	0
+2393	1	Train	Mesa	AZ	US	85210	High School	Not Applicable	1993-01-01 00:00:00	3	13	Yes	No	0
+2432	1	Train	Minden	NV	US	89423	None	General studies		3	11	No	No	0
+2469	1	Train	Baltimore	MD	US	21218	None			2	9	Yes	No	0
+2472	1	Train	Allentown	PA	US	18109	None		1994-09-01 00:00:00	1	7	No	No	0
+2473	1	Train	Glendale	AZ	US	85301	High School	Not Applicable	1974-01-01 00:00:00	6	32	Yes	No	0
+2481	1	Train	Boise	ID	US	83713	Bachelor's	Education and Political Science	1993-01-01 00:00:00	3	17	No	Yes	75
+2528	1	Train	Lombard	IL	US	60148	Vocational	Medical assistant	2011-06-01 00:00:00	4	23	No	No	0
+2549	1	Train	College Park	MD	US	20740	Master's	Liberal Arts		10	17	Yes	No	0
+2571	1	Train	Tampa	FL	US	33618	High School	Not Applicable		1	0	No	No	0
+2604	1	Train	Branchburg	NJ	US	08876	High School	Business Administration and Management, General	1997-06-01 00:00:00	3	9	No	Yes	5
+2638	1	Train	Montclair	NJ	US	07042	High School	Not Applicable	1974-01-01 00:00:00	4	17	Yes	No	0
+2652	1	Test	Glendale	CA	US	91204	High School	Not Applicable	1987-01-01 00:00:00	3	21	No	Yes	3
+2658	1	Train	Whittier	CA	US	90601	High School	Not Applicable		4	17		No	0
+2700	1	Train	Hoffman Estates	IL	US	60192	High School	Not Applicable	2005-01-01 00:00:00	1	3	Yes	No	0
+2718	1	Train	Miami	FL	US	33132	Bachelor's	Education	2011-12-01 00:00:00	3	8	No	No	0
+2731	1	Train	Franklin	TN	US	37064	Associate's	Criminal Justice Policy &amp; Practice	2005-06-01 00:00:00	8	17		No	0
+2739	1	Test	Richmond	VA	US	23231	High School	Not Applicable	1999-01-01 00:00:00	4	9	No	No	0
+2750	1	Test	Des Moines	IA	US	50313	High School	Not Applicable	1989-01-01 00:00:00	2	6	Yes	No	0
+2754	1	Train	Plano	IL	US	60545	Associate's	Communication Studies		2	19	Yes	Yes	40
+2821	1	Train	Aston	PA	US	19014	None		2011-07-01 00:00:00	3	9	Yes	No	0
+2848	1	Test	Farmersville	TX	US	75442	Bachelor's	Journalism/Public Relations and Political Science		3	10		No	0
+2865	1	Train	Wentzville	MO	US	63385	Associate's	business management	1986-01-01 00:00:00	4	27		No	0
+2888	1	Train	Des Moines	IA	US	50314	None			7	11	Yes	Yes	12
+2898	1	Train	East Chicago	IN	US	46312	Bachelor's	Management of Information Systems		2	8	No	No	0
+2914	1	Train	Centreville	VA	US	20121	None		2001-01-01 00:00:00	3	8	Yes	No	0
+2958	1	Train	Clinton Township	MI	US	48038	Bachelor's	Business Management	2010-01-01 00:00:00	2	7	Yes	Yes	1
+2964	1	Train	Rock Hill	SC	US	29730	Bachelor's	Business / Computer Science Minor Paralegal	2004-09-01 00:00:00	6	9	No	No	0
+2982	1	Train	Miramar	FL	US	33027	None			0		Yes	No	0
+3050	1	Train	Bolingbrook	IL	US	60440	None	Business Administration	1995-01-01 00:00:00	2	13	No	No	0
+3054	1	Train	Phoenix	AZ	US	85008	None	Digital Photography	2010-12-01 00:00:00	3	11	No	Yes	10
+3069	1	Train	Amherst	OH	US	44001	High School	Not Applicable	1978-06-01 00:00:00	3	17	Yes	No	0
+3093	1	Train	Kansas City	MO	US	64118	Master's		2001-05-01 00:00:00	2	10	Yes	No	0
+3123	1	Train	Mineola	NY	US	11501	None	Applied Behavioral Analysis	2009-06-01 00:00:00	7	33	Yes	No	0
+3145	1	Train	Lexington	SC	US	29072	Master's	Accounting	2012-04-01 00:00:00	5	6	No	No	0
+3164	1	Train	Garfield	GA	US	30425	High School	Not Applicable	2001-05-01 00:00:00	5	7	No	No	0
+3165	1	Train	Hershey	PA	US	17033	None	Practical Nursing Program	2012-03-01 00:00:00	2	10		No	0
+3176	1	Train	South Elgin	IL	US	60177	Associate's	Early Childhood Education	2011-05-01 00:00:00	5	7	No	No	0
+3185	1	Train	Camden	NJ	US	08101	High School	Not Applicable	1987-06-01 00:00:00	3	16	No	No	0
+3186	1	Train	Mattapan	MA	US	02126	None			0			No	0
+3232	1	Train	Arnold	MO	US	63010	High School	Not Applicable	2002-06-01 00:00:00	2	11	Yes	No	0
+3268	1	Train	Broadview Heights	OH	US	44147	Master's	Public Administration	2006-01-01 00:00:00	5	19	Yes	No	0
+3276	1	Train	Oakland	CA	US	94608	High School	Not Applicable		3	14	Yes	Yes	10
+3290	1	Train	Dhaka		BD		Master's	Accounting	2008-01-01 00:00:00	2	1	No	Yes	500
+3316	1	Train	Conyers	GA	US	30094	High School	Banking and Finance	1996-06-01 00:00:00	3	9	No	No	0
+3351	1	Train	Longwood	FL	US	32779	Bachelor's	Business Administration		2	10	No	Yes	20
+3381	1	Train	Atlanta	GA	US	30349	None	Medical Assistant		3	8	No	No	0
+3411	1	Train	San Diego	CA	US	92129	Master's		2012-03-01 00:00:00	6	14	Yes	No	0
+3475	1	Train	Swanton	OH	US	43558	High School	Standard Oil of Indiana		3	35	Yes	No	0
+3491	1	Train	Durham	NC	US	27712	High School	Not Applicable		9	33		No	0
+3539	1	Train	Carson City	NV	US	89701	None	English and Customer Service	1994-01-01 00:00:00	4	10	Yes	No	0
+3582	1	Train	Evansville	IN	US	47725	Master's	Industrial Management	2002-01-01 00:00:00	1	34		No	0
+3594	1	Train	Shippensburg	PA	US	17257	High School		2007-05-01 00:00:00	1	4	No	No	0
+3638	1	Train	Washington	GA	US	30673	None		2012-06-01 00:00:00	5	30		No	0
+3644	1	Train	Fuquay Varina	NC	US	27526	None		2012-06-01 00:00:00	5	4	Yes	No	0
+3688	1	Train	Laurel	MD	US	20707	High School	Not Applicable	1991-01-01 00:00:00	3	11	Yes	No	0
+3699	1	Test	Clifton	NJ	US	07013	None	Psychology	2012-03-01 00:00:00	4	5	Yes	Yes	5
+3752	1	Train	Grand Forks	ND	US	58203	Master's	Space Studies	2012-05-01 00:00:00	5	10	Yes	Yes	8
+3758	1	Train	Sunny Isles Beach	FL	US	33160	Master's		1998-01-01 00:00:00	10	26	Yes	No	0
+3763	1	Test	Charlotte	NC	US	28205	High School	Not Applicable	2001-01-01 00:00:00	4	5	Yes	No	0
+3772	1	Train	Puyallup	WA	US	98371	Associate's			2	21	No	Yes	9
+3777	1	Train	Orlando	FL	US	32836	Associate's	Business Marketing Management	2010-01-01 00:00:00	2	7	Yes	No	0
+3801	1	Train	Waldorf	MD	US	20603	High School	Not Applicable	2003-01-01 00:00:00	3	7	Yes	No	0
+3830	1	Train	Chicago	IL	US	60625	Bachelor's	Science Business Communication		6	23	Yes	No	0
+3842	1	Train	Philadelphia	PA	US	19124	High School	Not Applicable	1986-01-01 00:00:00	6	15	Yes	No	0
+3846	1	Train	Hillside	NJ	US	07205	High School	Not Applicable	1983-01-01 00:00:00	5	22	Yes	No	0
+3892	1	Train	Indianapolis	IN	US	46216	High School	Not Applicable		1	3	No	No	0
+3908	1	Train	Philadelphia	PA	US	19146	Bachelor's	Biology	2009-01-01 00:00:00	3	6	Yes	No	0
+3992	1	Train	Montgomery	AL	US	36106	Associate's		1998-01-01 00:00:00	4	8	No	No	0
+4001	1	Train	Flat Rock	IN	US	47234	High School	Not Applicable	1991-06-01 00:00:00	5	20	No	No	0
+4019	1	Train	Reno	NV	US	89521	High School	Not Applicable		3	4	No	No	0
+4022	1	Train	Glen Burnie	MD	US	21061	High School	Not Applicable	2006-01-01 00:00:00	1	0	No	No	0
+4032	1	Train	Elba	AL	US	36323	Bachelor's	Accounting	2010-12-01 00:00:00	1	3	Yes	Yes	2
+4040	1	Train	Birmingham	MI	US	48009	None			0		Yes	No	0
+4049	1	Train	Chagrin Falls	OH	US	44022	Associate's	Business	1999-03-01 00:00:00	5	10	Yes	No	0
+4061	1	Train	Orange	CA	US	92869	Bachelor's	Accounting	2004-01-01 00:00:00	8	19	No	Yes	32
+4082	1	Train	Reynoldsburg	OH	US	43068	Bachelor's	Human Ecology	2011-12-01 00:00:00	3	4	Yes	No	0
+4083	1	Train	Huntington Beach	CA	US	92648	Associate's	Fire Technology	1991-01-01 00:00:00	4	19	Yes	No	0
+4095	1	Train	Fort Worth	TX	US	76179	Bachelor's	Agricultural Business	1987-01-01 00:00:00	1	4	No	Yes	5
+4107	1	Train	North Lauderdale	FL	US	33068	None		2002-10-01 00:00:00	6	20		No	0
+4125	1	Train	Clearwater	FL	US	33764	None			3	18	No	No	0
+4164	1	Train	Tularosa	NM	US	88352	None			10	17	Yes	No	0
+4188	1	Test	Baltimore	MD	US	21218	Bachelor's	Political Science	2012-06-01 00:00:00	9	6	Yes	No	0
+4200	1	Train	Madison Heights	MI	US	48071	Associate's	Psychology	2010-01-01 00:00:00	2	8	Yes	Yes	15
+4202	1	Train	Joliet	IL	US	60433	None		2009-01-01 00:00:00	3	4	No	No	0
+4232	1	Train	Jamaica	NY	US	11432	Master's	Public Administration	2001-08-01 00:00:00	2	11	Yes	No	0
+4243	1	Train	Cleveland	OH	US	44110	None		2010-01-01 00:00:00	4	8	No	No	0
+4250	1	Train	Fontana	CA	US	92336	High School	Not Applicable	2012-05-01 00:00:00	3	4	Yes	No	0
+4274	1	Train	Excelsior Springs	MO	US	64024	None		2011-12-01 00:00:00	5	20	No	No	0
+4283	1	Train	Tampa	FL	US	33614	None	communication	1991-01-01 00:00:00	5	16	Yes	No	0
+4289	1	Train	Anaheim	CA	US	92806	None			3	9	Yes	Yes	6
+4332	1	Train	Arlington	TX	US	76013	High School	Not Applicable	2006-01-01 00:00:00	3	6	Yes	No	0
+4359	1	Train	Valrico	FL	US	33594	High School	Not Applicable	2010-01-01 00:00:00	3	2	Yes	No	0
+4360	1	Train	Campbell	CA	US	95008	None	Purchasing Management Course I	2000-12-01 00:00:00	6	18		No	0
+4366	1	Train	Cooper City	FL	US	33328	None			3	9		No	0
+4368	1	Test	College Park	GA	US	30349	High School	Not Applicable		5	45	No	No	0
+4380	1	Train	Miami	FL	US	33169	PhD		2004-05-01 00:00:00	7	10	Yes	No	0
+4388	1	Train	Casselberry	FL	US	32707	Bachelor's	Aerospace Engineering		1	0	No	No	0
+4462	1	Train	Wichita Falls	TX	US	76308	Bachelor's	Management Information Systems	2012-05-01 00:00:00	2	7	No	No	0
+4501	1	Train	Geneva	IL	US	60134	Bachelor's	Marketing	1989-01-01 00:00:00	8	19	Yes	Yes	25
+4510	1	Train	Roanoke	VA	US	24014	Associate's	Science and Information Systems Technology	2000-01-01 00:00:00	3	12	Yes	No	0
+4517	1	Train	Indianapolis	IN	US	46227	Master's	Information Systems	2004-01-01 00:00:00	10	17	Yes	No	0
+4545	1	Train	Strongsville	OH	US	44136	Bachelor's	Civil Engineering	1981-08-01 00:00:00	3	25	Yes	No	0
+4575	1	Train	Kirkland	IL	US	60146	None			10	8	No	No	0
+4604	1	Train	Oviedo	FL	US	32762	None	English/Human Resources		1	2	Yes	No	0
+4619	1	Train	Philadelphia	PA	US	19115	None		2005-01-01 00:00:00	2	3	No	No	0
+4639	1	Test	Orlando	FL	US	32811	None	Certified Nursing Assistant	2010-01-01 00:00:00	5	13	No	No	0
+4647	1	Test	Oswego	NY	US	13126	None	Criminal Justice	2005-01-01 00:00:00	4	10	Yes	Yes	40
+4651	1	Train	Clear Lake	MN	US	55319	Vocational	Medical Transcription	1996-05-01 00:00:00	7	23	Yes	Yes	3
+4654	1	Train	Westminster	CO	US	80031	Bachelor's	Medical Assistant	2011-12-01 00:00:00	3	17	Yes	No	0
+4688	1	Train	Bonner Springs	KS	US	66012	High School	Not Applicable	2010-01-01 00:00:00	3	6	Yes	No	0
+4698	1	Train	Tabor City	NC	US	28463	High School	Not Applicable	1982-01-01 00:00:00	4	24	Yes	Yes	5
+4703	1	Train	Citrus Heights	CA	US	95610	None			5	14	No	No	0
+4719	1	Train	Garfield	NJ	US	07026	None		2004-01-01 00:00:00	3	11	No	No	0
+4724	1	Test	Snellville	GA	US	30039	Bachelor's	Media Production	2010-04-01 00:00:00	1	10		No	0
+4740	1	Train	Knoxville	TN	US	37920	High School		2001-05-01 00:00:00	3	9	No	No	0
+4743	1	Train	Fort Worth	TX	US	76137	High School	Not Applicable	2006-06-01 00:00:00	6	6	Yes	No	0
+4745	1	Train	Dallas	TX	US	75201	None			6	12	Yes	Yes	10
+4773	1	Train	Detroit	MI	US	48227	None	Medical	2012-03-01 00:00:00	2	2	Yes	No	0
+4787	1	Train	Charlotte	NC	US	28277	None			4	24		No	0
+4844	1	Train	Orlando	FL	US	32812	None			4	8	Yes	No	0
+4859	1	Train	Longview	TX	US	75605	Bachelor's	Elementary and Early Childhood Education	1987-01-01 00:00:00	2	25	Yes	Yes	18
+4877	1	Test	Cary	IL	US	60013	None	education		4	26	Yes	No	0
+4940	1	Train	Olympia	WA	US	98503	None			1	2	No	No	0
+4965	1	Train	Plano	TX	US	75093	Master's	E-business	2005-04-01 00:00:00	2	5	Yes	No	0
+4972	1	Train	Brazoria	TX	US	77422	High School	Not Applicable	2008-06-01 00:00:00	3	3	No	No	0
+4988	1	Train	Nazareth	PA	US	18064	Master's	Clinical Exercise Physiology		7	4	Yes	No	0
+4989	1	Train	New Castle	IN	US	47362-9166	High School	Liberal Arts and Sciences/Liberal Studies	1966-05-01 00:00:00	6	45	Yes	Yes	4
+5012	1	Train	Miramar	FL	US	33023	Bachelor's		2012-04-01 00:00:00	6	9	Yes	No	0
+5152	1	Train	Warner Robins	GA	US	31093	Bachelor's	Management	2013-12-01 00:00:00	6	5	No	No	0
+5156	1	Train	Phoenix	AZ	US	85042	None	Court Reporting/Court Reporter	2011-05-01 00:00:00	2	2	Yes	No	0
+5157	1	Train	Riverside	NJ	US	08075	High School	Not Applicable		4	22	No	Yes	10
+5174	1	Train	Raleigh	NC	US	27606	None		1996-01-01 00:00:00	5	14	Yes	Yes	35
+5186	1	Train	Apopka	FL	US	32712	Bachelor's	Business Administration	1976-05-01 00:00:00	2	40	Yes	Yes	200
+5190	1	Train	Denver	CO	US	80224	Bachelor's	Communication Studies	2011-01-01 00:00:00	6	5	No	No	0
+5211	1	Train	Pembroke Pines	FL	US	33025	Bachelor's	Marketing	2012-03-01 00:00:00	5	7	Yes	No	0
+5214	1	Train	Springfield	MA	US	01103	High School	Not Applicable	1978-01-01 00:00:00	3	25	No	No	0
+5264	1	Train	Van	TX	US	75790	None	Business/Computer		3	26	No	No	0
+5272	1	Train	Rowland Heights	CA	US	91748	High School	General Studies	1986-06-01 00:00:00	5	14		No	0
+5282	1	Train	Amarillo	TX	US	79106	Master's	marketing for Dallas / Fort Worth Metroplex	2005-12-01 00:00:00	4	22	Yes	Yes	40
+5324	1	Train	Columbus	NE	US	68601	None	Practical Nursing	2005-01-01 00:00:00	4	10	Yes	No	0
+5339	1	Train	Baltimore	MD	US	21217	High School	Carpentry/Carpenter	2005-06-01 00:00:00	3	7	Yes	Yes	10
+5351	1	Train	Las Vegas	NV	US	89130	None			6	20		No	0
+5365	1	Train	Oklahoma City	OK	US	73162	Bachelor's	Liberal Studies	2008-06-01 00:00:00	4	6	No	No	0
+5384	1	Train	Jacksonville	FL	US	32209	Bachelor's	Communication		3	16	No	No	0
+5414	1	Train	Biscayne Park	FL	US	33161-6727	None			3	32	Yes	No	0
+5473	1	Train	Greenwood	MO	US	64034	Associate's	Mechanical		4	37		No	0
+5598	1	Train	Marlboro	NJ	US	07746	Bachelor's	Arts and Sciences		3	18	Yes	No	0
+5633	1	Train	Harrisburg	PA	US	17103	Bachelor's	Organization Management		3	21	Yes	No	0
+5645	1	Train	Wake Village	TX	US	75501	High School	Education Division Diabetes	1978-05-01 00:00:00	5	23		Yes	75
+5676	1	Train	Tampa	FL	US	33609	Bachelor's	Computer Information Science	2002-01-01 00:00:00	3	10		No	0
+5686	1	Train	Washington	DC	US	20012	High School	Not Applicable	2010-06-01 00:00:00	3	5	Yes	No	0
+5692	1	Train	Omaha	NE	US	68110	High School	Not Applicable		6	19	No	No	0
+5725	1	Train	Marietta	GA	US	30064	Bachelor's	Entrepreneurship		5	12	No	No	0
+5726	1	Train	Pleasant Hill	MO	US	64080	Bachelor's	Business Administration	2000-01-01 00:00:00	3	12	Yes	No	0
+5740	1	Train	Hampton	GA	US	30228	None	Commercial Design	1996-01-01 00:00:00	4	18	No	No	0
+5748	1	Train	Hampton	GA	US	30228	Bachelor's	Studio Art	2012-04-01 00:00:00	3	7	Yes	No	0
+5751	1	Train	Morris Plains	NJ	US	07950	Bachelor's	Mass Media Communications	1989-01-01 00:00:00	4	11	No	No	0
+5762	1	Train	Cathedral City	CA	US	92234	Bachelor's	SOCIOLOGY	2011-01-01 00:00:00	0		No	No	0
+5767	1	Train	Tucson	AZ	US	85757	Bachelor's	Business	2011-06-01 00:00:00	2	29	No	No	0
+5771	1	Test	Arlington	TX	US	76014	Associate's	Computer Networking Technology	2012-01-01 00:00:00	6	10	Yes	No	0
+5813	1	Train	Hopkins	SC	US	29061	High School	Not Applicable	2008-05-01 00:00:00	4	7	Yes	No	0
+5874	1	Train	Schwenksville	PA	US	19473	None	Business		5	27	Yes	Yes	25
+5939	1	Train	Scottdale	GA	US	30079	High School	Not Applicable		2	2	No	No	0
+5965	1	Train	Sayville	NY	US	11782	Bachelor's	Washington, D.C Numerous computer science		7	29	Yes	No	0
+5976	1	Train	Dayton	KY	US	41074	None			1	20	No	No	0
+6004	1	Train	Florence	MS	US	39073	Bachelor's	Human Services/Management	2011-09-01 00:00:00	2	23	Yes	Yes	12
+6047	1	Train	Oviedo	FL	US	32765	Bachelor's	Marketing	2012-05-01 00:00:00	3	2	No	No	0
+6049	1	Train	Gulfport	MS	US	39507	Bachelor's		1999-01-01 00:00:00	5	22	No	No	0
+6101	1	Train	Lake Balboa	CA	US	91406	Master's	Business Administration		2	22	Yes	Yes	6
+6156	1	Train	Brentwood	MD	US	20722	None			2	5	No	Yes	3
+6172	1	Train	Chicago	IL	US	60649	None			3	3	No	No	0
+6186	1	Train	Lauderdale Lakes	FL	US	33313	None			4	17	Yes	No	0
+6187	1	Train	Toms River	NJ	US	08755	Bachelor's	Biochemistry	2001-01-01 00:00:00	4	9	Yes	Yes	15
+6224	1	Train	Hollywood	FL	US	33026	High School	Not Applicable	2007-01-01 00:00:00	3	3	No	No	0
+6225	1	Train	Cape May	NJ	US	08204	Master's		1985-01-01 00:00:00	7	34	No	No	0
+6246	1	Train	Stone Mountain	GA	US	30083	Bachelor's	Political Science	2011-07-01 00:00:00	3	5	No	No	0
+6275	1	Train	Newark	DE	US	19702	Bachelor's			2	6	No	No	0
+6279	1	Train	Fredericksburg	VA	US	22405	Bachelor's	History and Social Sciences	2008-01-01 00:00:00	8	112	Yes	Yes	50
+6288	1	Train	Philadelphia	PA	US	19148	None	Management Training	2003-09-01 00:00:00	6	17	Yes	No	0
+6326	1	Train	Manassas	VA	US	20109	High School	General Studies	2007-06-01 00:00:00	4	7	Yes	No	0
+6330	1	Train	Davenport	IA	US	52806	None	Computer Programming	2011-04-01 00:00:00	2	11		No	0
+6364	1	Train	Miami	FL	US	33165	Associate's	Biological Sciences	2010-07-01 00:00:00	7	4	Yes	No	0
+6374	1	Train	Florissant	MO	US	63031	Master's			5	111	No	No	0
+6429	1	Train	Colorado Springs	CO	US	80903	None	art, film		5	32		No	0
+6433	1	Train	Budd Lake	NJ	US	07828	High School	Not Applicable	1986-01-01 00:00:00	8	14	No	No	0
+6441	1	Train	Joliet	IL	US	60431	High School	Not Applicable	1990-01-01 00:00:00	2	17	Yes	Yes	12
+6456	1	Train	Gastonia	NC	US	28056	Bachelor's		2010-05-01 00:00:00	8	19	Yes	No	0
+6468	1	Train	Rochester	NY	US	14623	High School	Not Applicable	1986-01-01 00:00:00	1	10	Yes	No	0
+6524	1	Train	Iselin	NJ	US	08830	Bachelor's	Computer Science		7	8	Yes	No	0
+6532	1	Train	New York	NY	US	10001	High School	Not Applicable		3	1	Yes	No	0
+6585	1	Train	Memphis	TN	US	38108	Associate's	Early Childhood Education		7	18	Yes	No	0
+6587	1	Train	Houston	TX	US	77063	PhD	Law	1998-01-01 00:00:00	3	9	No	No	0
+6588	1	Train	Covington	GA	US	30014	None			4	14	No	No	0
+6598	1	Train	Little Canada	MN	US	55117	High School	Not Applicable	2009-05-01 00:00:00	2	4	Yes	No	0
+6643	1	Train	Minneapolis	MN	US	55403	Bachelor's	Marketing		6	111	No	Yes	35
+6679	1	Train	Opa Locka	FL	US	33055	Associate's		1980-01-01 00:00:00	1	13	No	Yes	4
+6733	1	Train	Nampa	ID	US	83687	High School	Not Applicable		1	0	No	No	0
+6752	1	Train	Greensboro	NC	US	27455	Bachelor's	Biology/ Medical Technology		5	23	No	No	0
+6766	1	Train	Huntsville	TX	US	77340	High School	Not Applicable	2004-05-01 00:00:00	2	4	Yes	No	0
+6809	1	Train	Los Angeles	CA	US	90019	High School	Education Certification		0		No	No	0
+6827	1	Train	Louisville	KY	US	40228	None			1	13		No	0
+6830	1	Train	Phoenix	AZ	US	85085	None	Psychology		3	5	Yes	No	0
+6857	1	Train	Dollard-des-Ormeaux	Quebec	CA		Bachelor's	Mechanical Engineer	1981-01-01 00:00:00	10	21	No	No	0
+6858	1	Train	Bourbonnais	IL	US	60914	High School	Not Applicable	1995-01-01 00:00:00	4	13	No	No	0
+6866	1	Test	Seattle	WA	US	98112	PhD			7	23	Yes	No	0
+6884	1	Train	Tumwater	WA	US	98512	None			2	1	No	No	0
+6945	1	Train	Fishers	IN	US	46038	Associate's	Drafting CAD Technology		5	19	Yes	No	0
+6950	1	Train	Taylors	SC	US	29687	None	Criminal Justice	2012-04-01 00:00:00	7	30	No	No	0
+6957	1	Train	Brooklyn Center	MN	US	55429	None	Nursing Assistant	2008-01-01 00:00:00	6	6	Yes	No	0
+6966	1	Train	Dallas	TX	US	75287	None	Medical Assistant and Phlebotomy Technician	1990-07-01 00:00:00	10	38		No	0
+6969	1	Train	Overland Park	KS	US	66212	Vocational	Business and Technology	2012-07-01 00:00:00	6	18	No	No	0
+6981	1	Train	Hillsboro	ND	US	58045	High School	Not Applicable	2004-12-01 00:00:00	1	1		No	0
+7002	1	Train	Mesa	AZ	US	85202	Associate's	A/C & Refrigeration	1980-01-01 00:00:00	1	3		No	0
+7015	1	Train	Saint Petersburg	FL	US	33705	Bachelor's	Electrical Engineering	2011-01-01 00:00:00	3	6	Yes	No	0
+7023	1	Train	Lehigh Valley	PA	US	18003	Bachelor's	General Psychology	2004-12-01 00:00:00	6	7	Yes	No	0
+7031	1	Train	Cicero	IL	US	60804	None			3	3	No	No	0
+7035	1	Train	Chicago	IL	US	60659	Associate's	Electronic Office Machine Repair	1993-06-01 00:00:00	10	19		No	0
+7065	1	Train	Seven Hills	OH	US	44131	None	Business Management Studies	2003-01-01 00:00:00	9	30	Yes	Yes	150
+7087	1	Train	Raleigh	NC	US	27614	Bachelor's	Chemistry	2012-05-01 00:00:00	2	2	Yes	No	0
+7089	1	Train	Baltimore	MD	US	21207	High School	Not Applicable	2011-06-01 00:00:00	2	2	No	No	0
+7111	1	Train	House Springs	MO	US	63051	Associate's	Automotive	2011-05-01 00:00:00	4	12	Yes	No	0
+7129	1	Train	Anderson	IN	US	46012	Vocational	management	1976-01-01 00:00:00	3	29	No	No	0
+7153	1	Train	Gilbert	AZ	US	85297	None	Business Training Program	1996-01-01 00:00:00	6	24	No	No	0
+7193	1	Train	Washington	MO	US	63090	None			3	15	Yes	No	0
+7196	1	Train	Chattanooga	TN	US	37411	Bachelor's	Organizational Management		3	15	Yes	No	0
+7215	1	Train	San Diego	CA	US	92123	None	Education, General	2013-06-01 00:00:00	5	10	No	No	0
+7287	1	Train	Hamilton	GA	US	31811	High School	Not Applicable	2000-01-01 00:00:00	3	9	No	No	0
+7394	1	Train	Altamonte Springs	FL	US	32714	None			3	8	Yes	No	0
+7399	1	Train	Phoenix	AZ	US	85037	High School	Not Applicable	2009-05-01 00:00:00	3	5	No	No	0
+7426	1	Train	Orlando	FL	US	32812	High School	Not Applicable	1998-01-01 00:00:00	3	7		No	0
+7436	1	Train	Raleigh	NC	US	27616	None			8	27	Yes	No	0
+7450	1	Train	Wichita	KS	US	67219	High School	Not Applicable	2008-12-01 00:00:00	3	6	No	No	0
+7451	1	Train	West Lafayette	IN	US	47906	Bachelor's	Mechanical Engineering	2012-05-01 00:00:00	3	2	No	No	0
+7495	1	Train	Elkton	MD	US	21921	Bachelor's	Nursing	2006-01-01 00:00:00	4	10	No	No	0
+7504	1	Train	Ladera Ranch	CA	US	92694	Bachelor's	Engineering Management and System Engineering	2012-05-01 00:00:00	4	2	Yes	No	0
+7516	1	Train	Brooklyn	NY	US	11206	None		1994-01-01 00:00:00	5	27	Yes	No	0
+7558	1	Train	Eagle Lake	FL	US	33839	High School	COLLEGE	2006-01-01 00:00:00	5	6	No	No	0
+7576	1	Train	Houston	TX	US	77084	None			9	11	Yes	No	0
+7586	1	Train	Mesquite	TX	US	75149	Bachelor's	Criminal Justice		1	7	No	Yes	6
+7587	1	Test	Gilbert	AZ	US	85233	Associate's	Mass Communication and Journalism		10	14	Yes	Yes	20
+7618	1	Train	Islip Terrace	NY	US	11752	High School	Not Applicable	1974-01-01 00:00:00	1	1	No	No	0
+7624	1	Train	Omaha	NE	US	68122	High School	Not Applicable	2004-01-01 00:00:00	2	6	No	No	0
+7625	1	Train	Rosenberg	TX	US	77471	High School	Not Applicable	2000-05-01 00:00:00	4	5		No	0
+7631	1	Train	Inkster	MI	US	48141	None	Tinkham Adult Education		4	4	No	No	0
+7677	1	Train	Elmhurst	NY	US	11373	Bachelor's	Business Administration	2011-05-01 00:00:00	9	6	Yes	No	0
+7685	1	Test	Cleveland	OH	US	44143	Bachelor's	Electronics and Computer Science		10	6	No	No	0
+7709	1	Train	Brooklyn	NY	US	11214	Associate's	Hospitality Administration and Management.	1999-01-01 00:00:00	3	10	No	Yes	5
+7760	1	Train	Muncie	IN	US	47303	Bachelor's		2012-04-01 00:00:00	7	3	Yes	No	0
+7769	1	Train	Oak Park	MI	US	48237	None	Cosmetology		5	8	No	No	0
+7814	1	Train	Purling	NY	US	12470	Associate's	Communications- ASL	2012-04-01 00:00:00	5	14	No	No	0
+7839	1	Train	Greenville	SC	US	29607	High School	Not Applicable	2004-05-01 00:00:00	4	7	No	No	0
+7874	1	Train	Columbus	OH	US	43227	High School	business	2010-08-01 00:00:00	2	4	No	No	0
+7875	1	Train	Warrenton	VA	US	20186	None			0			No	0
+7904	1	Train	Summit Hill	PA	US	18250	Bachelor's	Psychology/Life Coaching/ Christian Counseling	2008-01-01 00:00:00	4	11		No	0
+7919	1	Train	Hialeah	FL	US	33013	Associate's	Information Technology		1	4	No	No	0
+7928	1	Train	Philadelphia	PA	US	19128	Bachelor's	MANAGEMENT OF FINANCIAL INSTITUTIONS	2008-01-01 00:00:00	7	5	Yes	No	0
+7930	1	Train	Miami	FL	US	33130	Associate's	Business Administration	2012-04-01 00:00:00	5	9	Yes	No	0
+7935	1	Train	Houston	TX	US	77020	Associate's	Accounting	2012-03-01 00:00:00	2	3		No	0
+7966	1	Train	Maple Shade	NJ	US	08052	Associate's	Real Estate		1	17	Yes	No	0
+7974	1	Train	East Brunswick	NJ	US	08816	Master's	Marriage and Family Therapy	2012-04-01 00:00:00	4	4	Yes	No	0
+7983	1	Train	Tempe	AZ	US	85282	Associate's	Microcomputer Programmer/Analyst	2003-12-01 00:00:00	6	5	Yes	No	0
+8009	1	Train	Lauderhill	FL	US	33313	None			1	0	No	No	0
+8026	1	Test	Glendale	CA	US	91201	None	Computer Technology		3	0	Yes	No	0
+8057	1	Train	North Babylon	NY	US	11703	Bachelor's	Elementary Special Education	2005-05-01 00:00:00	3	7	No	Yes	4
+8074	1	Train	Odessa	TX	US	79763	High School	Not Applicable	2011-01-01 00:00:00	3	6	Yes	No	0
+8105	1	Train	Melbourne	FL	US	32940	Associate's	Liberal Arts		5	40	No	No	0
+8135	1	Train	Pensacola	FL	US	32504	None	Information Technology Assistant	2012-04-01 00:00:00	3	10	No	No	0
+8189	1	Test	New Rochelle	NY	US	10801	Bachelor's	Business Management		4	6	No	No	0
+8247	1	Train	Scarsdale	NY	US	10583	None			3	11	Yes	No	0
+8255	1	Train	Amherst	NY	US	14228	Bachelor's	Geological Science	2012-06-01 00:00:00	2	4		No	0
+8282	1	Train	Indianapolis	IN	US	46224	High School	Not Applicable	2005-01-01 00:00:00	3	5	No	No	0
+8301	1	Train	Charlotte	NC	US	28211	Master's		2012-05-01 00:00:00	3	8	Yes	No	0
+8316	1	Train	Yemassee	SC	US	29945	Bachelor's	Management	2011-12-01 00:00:00	2	4	Yes	No	0
+8350	1	Train	Forest Lake	MN	US	55025	Bachelor's	Business Administration	1990-01-01 00:00:00	5	20	Yes	No	0
+8385	1	Train	Brookfield	IL	US	60513	Associate's	Liberal Arts		4	5	Yes	No	0
+8388	1	Train	Des Moines	IA	US	50310	High School	Not Applicable	2009-01-01 00:00:00	2	5	No	No	0
+8405	1	Train	Plano	TX	US	75093	Bachelor's	Dean's	2011-08-01 00:00:00	3	5	No	No	0
+8417	1	Train	Atlanta	GA	US	30341	Bachelor's	Certification and HVAC	2009-08-01 00:00:00	6	12		No	0
+8460	1	Train	Rapid City	SD	US	57701	Master's	Engineering Management	2011-12-01 00:00:00	3	6	No	Yes	5
+8642	1	Train	Kernersville	NC	US	27284	None			2	2	No	No	0
+8685	1	Train	Corona	CA	US	92882	None			2	2	No	No	0
+8699	1	Train	Houston	TX	US	77051	None	Accounting Office Specialist		5	19	No	No	0
+8715	1	Test	Philadelphia	PA	US	19149	None	industrial	2009-12-01 00:00:00	7	7	No	No	0
+8725	1	Train	Roseville	MN	US	55113	Associate's	Computer Networking Systems	2012-03-01 00:00:00	9	6	No	No	0
+8773	1	Train	Sunnyvale	CA	US	94085	Associate's		1995-01-01 00:00:00	2	9	No	No	0
+8776	1	Train	Lansdale	PA	US	19446	Bachelor's		2010-01-01 00:00:00	9	17		No	0
+8828	1	Train	Tempe	AZ	US	85284	High School			2	18	No	No	0
+8831	1	Train	Birmingham	AL	US	35215	Associate's	Applied Science Certified Medical Assistant	2012-05-01 00:00:00	1	2	No	Yes	10
+8832	1	Train	Southfield	MI	US	48076	High School	Not Applicable	1998-01-01 00:00:00	4	7	Yes	Yes	10
+8841	1	Train	Philadelphia	PA	US	19135	None			2	7	Yes	No	0
+8845	1	Test	PUNE	Maharashtra	IN		Bachelor's	Mechanical Engineering		2	5	Yes	Yes	3
+8874	1	Train	Cincinnati	OH	US	45202	Vocational	Culinary Arts/Chef Training	2000-05-01 00:00:00	5	6	No	Yes	8
+8885	1	Train	Orlando	FL	US	32817	None			3	4	No	No	0
+8899	1	Test	Glen Ellyn	IL	US	60137	Bachelor's	Nursing	2012-04-01 00:00:00	3	4	No	No	0
+8910	1	Train	Baltimore	MD	US	21215	High School	Not Applicable	1997-06-01 00:00:00	3	7	No	No	0
+8939	1	Train	Hesperia	CA	US	92345	Master's		1996-01-01 00:00:00	3	25	Yes	No	0
+8964	1	Train	Jacksonville	FL	US	32244	None			1	15	No	No	0
+8977	1	Train	Buena Park	CA	US	90620	High School	Not Applicable	1976-01-01 00:00:00	2	13	No	No	0
+8979	1	Train	Concord	NC	US	28027	None		1997-01-01 00:00:00	3	6	Yes	No	0
+8989	1	Train	Los Angeles	CA	US	90059	High School	Not Applicable	2011-01-01 00:00:00	2	6	Yes	No	0
+9046	1	Train	Irving	TX	US	75061	High School	Not Applicable		3	4	No	No	0
+9107	1	Train	Jersey City	NJ	US	07306	Master's	Industrial Pharmacy	2011-12-01 00:00:00	5	5	No	No	0
+9159	1	Train	Los Angeles	CA	US	90065	High School	Not Applicable	1999-01-01 00:00:00	9	9	No	No	0
+9173	1	Train	Gilbert	AZ	US	85234	Associate's		1982-01-01 00:00:00	4	22	Yes	Yes	55
+9221	1	Train	Fort Mill	SC	US	29708	Master's	Finance		6	14	No	No	0
+9258	1	Train	Corona	CA	US	92881	None			5	14		No	0
+9260	1	Train	Bryan	TX	US	77803	None			10	24	Yes	No	0
+9262	1	Train	Frisco	TX	US	75035	Bachelor's	Business Administration, Entrepreneurship	2012-03-01 00:00:00	3	8	Yes	No	0
+9280	1	Test	Pompano Beach	FL	US	33060	Associate's	Education	2008-05-01 00:00:00	4	7	Yes	Yes	15
+9305	1	Train	Menominee	MI	US	49858	Associate's	Accounting	2011-05-01 00:00:00	7	6	Yes	No	0
+9337	1	Train	Georgetown	TX	US	78626	High School		2005-01-01 00:00:00	3	7	No	Yes	10
+9365	1	Train	Huntersville	NC	US	28078	Associate's	Electrical Engineering Technology		6	18		No	0
+9423	1	Train	O Fallon	IL	US	62269	High School	Not Applicable	1993-05-01 00:00:00	4	14	No	No	0
+9436	1	Test	Lake Mary	FL	US	32746	None			9	27	Yes	No	0
+9444	1	Train	Miami	FL	US	33173	High School	Computer Technology/Computer Systems Technology	2012-04-01 00:00:00	2	6	Yes	No	0
+9445	1	Train	Jersey City	NJ	US	07305	Bachelor's	Criminal Justice	2012-05-01 00:00:00	5	3		No	0
+9479	1	Train	Malabar	FL	US	32950	None			6	28	No	No	0
+9493	1	Train	Lafayette	IN	US	47904	Bachelor's	Psychology	2006-12-01 00:00:00	7	14	Yes	Yes	4
+9505	1	Train	Grand Rapids	MI	US	49546	Bachelor's	Composite	2012-05-01 00:00:00	8	4	No	No	0
+9584	1	Train	Cincinnati	OH	US	45224	None			0		No	No	0
+9586	1	Train	Ashland	KY	US	41101	Associate's	Bible Studies	2006-01-01 00:00:00	6	21	Yes	Yes	300
+9587	1	Train	Saint Joseph	MO	US	64506	Bachelor's	Political Science		8	20	Yes	Yes	100
+9600	1	Train	Cherry Hill	NJ	US	08034	High School	Not Applicable	1993-06-01 00:00:00	3	15	Yes	Yes	5
+9621	1	Train	Bethlehem	PA	US	18018	None			0			No	0
+9655	1	Train	Pacific Palisades	CA	US	90272	Master's	Business	1980-01-01 00:00:00	10	36	Yes	No	0
+9668	1	Train	Riverside	CA	US	92507	Vocational	Welding Technology/Welder	1990-10-01 00:00:00	1	16	No	Yes	6
+9680	1	Train	Lakewood	CA	US	90712	High School	Not Applicable		7	14		No	0
+9712	1	Train	Binghamton	NY	US	13905	Bachelor's	Public Relations	2003-05-01 00:00:00	8	12	No	Yes	15
+9716	1	Train	Coal City	IL	US	60416	None		2012-03-01 00:00:00	3	13	Yes	No	0
+9718	1	Train	Plantation	FL	US	33324	None			3	8	No	Yes	25
+9738	1	Train	Bay Shore	NY	US	11706	Associate's	Mathematics and Physics	1977-09-01 00:00:00	5	13		No	0
+9758	1	Train	Pittsburgh	PA	US	15236	Bachelor's	Information Technology Management	2011-05-01 00:00:00	2	9		No	0
+9764	1	Train	Tampa	FL	US	33610	Associate's	Respiratory care	1998-06-01 00:00:00	3	13	Yes	No	0
+9802	1	Train	Spring	TX	US	77386	High School	Not Applicable		5	10	No	No	0
+9825	1	Train	PALAKKAD	Kerala	IN		Master's			1	2	Yes	No	0
+9829	1	Train	Phoenix	AZ	US	85004	Bachelor's	Computer Science	1988-01-01 00:00:00	7	24	Yes	No	0
+9863	1	Train	Atlanta	GA	US	30312	Bachelor's			4	4	Yes	No	0
+9866	1	Train	Orlando	FL	US	32825	None			7	10	Yes	Yes	4
+9880	1	Train	Middleburg Heights	OH	US	44130	PhD	LAW	1989-01-01 00:00:00	6	22	Yes	No	0
+9886	1	Train	Charlotte	NC	US	28278	High School		2003-01-01 00:00:00	5	11	Yes	Yes	6
+9924	1	Train	Akron	OH	US	44320	Bachelor's	Business Management	2010-01-01 00:00:00	4	7	Yes	No	0
+9946	1	Train	Charlotte	NC	US	28269	Bachelor's		2007-05-01 00:00:00	5	3		No	0
+9973	1	Train	Moreno Valley	CA	US	92553	Associate's	LIBERAL ARTS	1992-06-01 00:00:00	2	11	No	Yes	25
+10009	1	Train	Los Angeles	CA	US	90022	None			5	15	Yes	No	0
+10021	1	Train	Williamsport	MD	US	21795	High School	Not Applicable	1982-06-01 00:00:00	6	24		No	0
+10040	1	Train	Johns Island	SC	US	29455	None		1983-01-01 00:00:00	6	26	Yes	No	0
+10041	1	Train	Aurora	CO	US	80013	Bachelor's	Business Administration		7	12	Yes	No	0
+10046	1	Train	Hilliard	OH	US	43026	None	Business, Communications	2014-05-01 00:00:00	4	14	No	Yes	200
+10060	1	Train	Los Angeles	CA	US	90034	Vocational	Nursing License	2011-03-01 00:00:00	6	12	Yes	No	0
+10064	1	Train	Asheville	NC	US	28806	None	Paralegal Studies	2009-10-01 00:00:00	5	11	Yes	No	0
+10089	1	Train	Appleton	WI	US	54915	Associate's	Medical Assistant	2012-02-01 00:00:00	4	2	No	No	0
+10094	1	Train	Wilmington	NC	US	28403	Associate's	Culinary Arts/Chef Training	2013-05-01 00:00:00	2	1	No	No	0
+10101	1	Train	Ozone Park	NY	US	11416	Master's	Industrial Pharmacy		1	0	No	No	0
+10117	1	Train	Rye Brook	NY	US	10573	Master's	Finance		6	4	Yes	No	0
+10173	1	Train	Lawrenceburg	KY	US	40342	High School	Not Applicable	2011-01-01 00:00:00	2	2	No	No	0
+10216	1	Train	Fresno	CA	US	93702	High School	Food Safety		3	7	No	No	0
+10253	1	Train	Yonkers	NY	US		None		1985-06-01 00:00:00	4	15	Yes	No	0
+10269	1	Train	Groton	NY	US	13073	High School	Not Applicable	1983-01-01 00:00:00	6	27	Yes	Yes	25
+10295	1	Train	Chicago	IL	US	60628	High School	English,Math,Art etc.	2010-10-01 00:00:00	4	4	No	No	0
+10303	1	Train	Lakeland	FL	US	33813	None	Nursing Program	2011-01-01 00:00:00	3	6	Yes	No	0
+10334	1	Train	Lynwood	IL	US	60411	Master's			8	32	Yes	No	0
+10404	1	Train	Macon	GA	US	31206	Bachelor's	Social Science	2012-05-01 00:00:00	7	23	Yes	No	0
+10407	1	Train	Memphis	TN	US	38117	High School	Not Applicable	1986-01-01 00:00:00	5	15	No	Yes	5
+10470	1	Train	Saint Louis	MO	US	63128	Bachelor's	Marketing, Finance	1988-08-01 00:00:00	2	28	No	No	0
+10503	1	Train	Hartford	CT	US	06103	Bachelor's	Elementary Education/Psychology	1985-01-01 00:00:00	7	26	No	No	0
+10551	1	Train	Indianapolis	IN	US	46224	Bachelor's	Business Administration		4	3	No	No	0
+10577	1	Train	Louisville	KY	US	40205	High School	Not Applicable		7	17		No	0
+10584	1	Train	Cincinnati	OH	US	45231	None		2004-06-01 00:00:00	3	4	Yes	No	0
+10608	1	Train	Warren	MI	US	48089	Bachelor's	Interdisciplinary Health Services		2	3	No	No	0
+10635	1	Train	Surprise	AZ	US	85374	High School		2011-01-01 00:00:00	1	3	Yes	No	0
+10643	1	Train	Manteca	CA	US	95336	Bachelor's	Paralegal Studies		2	7	Yes	No	0
+10655	1	Train	Elkton	MD	US	21921	Bachelor's	Animal Biotechnology	2012-05-01 00:00:00	4	3	No	No	0
+10686	1	Train	Atlanta	GA	US	30318	Bachelor's	Mechanical Engineering	2011-12-01 00:00:00	3	6	No	No	0
+10693	1	Train	Columbus	GA	US	31903	None			0		No	No	0
+10710	1	Train	San Diego	CA	US	92104	Bachelor's	Computer Science and Engineering	2007-05-01 00:00:00	3	5	Yes	No	0
+10718	1	Test	Oak Forest	IL	US	60452	High School	Not Applicable	2003-05-01 00:00:00	1	7	Yes	Yes	20
+10724	1	Test	Madrid	Madrid	ES		Bachelor's		1997-01-01 00:00:00	3	5	Yes	Yes	7
+10729	1	Train	Rochester	NY	US	14608	None			4	21	Yes	No	0
+10779	1	Train	Richmond	TX	US	77406	Bachelor's	Health Services Management	2011-09-01 00:00:00	2	7	No	No	0
+10782	1	Train	PANCHKULA	Haryana	IN		Master's	Finance and controls	2009-01-01 00:00:00	3	5	No	No	0
+10783	1	Train	Brockton	MA	US	02301	Master's	Education, Counseling Psychology	2012-04-01 00:00:00	6	19	No	No	0
+10815	1	Train	Oxford	PA	US	19363	Master's	Strategic Leadership	2007-08-01 00:00:00	3	10	Yes	No	0
+10857	1	Train	Woodridge	IL	US	60517	Bachelor's	Finance	1986-01-01 00:00:00	8	26	Yes	No	0
+10904	1	Train	Palm Bay	FL	US	32907	High School		2006-03-01 00:00:00	6	9	Yes	No	0
+10912	1	Train	Lancaster	TX	US	75134	None			0			No	0
+10953	1	Train	Rockford	IL	US	61101	None		1987-01-01 00:00:00	5	23	No	No	0
+10971	1	Train	Chicago	IL	US	60660	Associate's	Applied Science Nursing	2011-01-01 00:00:00	3	14	Yes	No	0
+10982	1	Train	Manchester	TN	US	37355	PhD		2002-01-01 00:00:00	3	10	Yes	No	0
+11014	1	Train	South Bend	IN	US	46614	Vocational	Licensed Practical/Vocational Nurse Training (LPN, LVN, Cert	2006-05-01 00:00:00	2	7		No	0
+11083	1	Train	Charlotte	NC	US	28215	Associate's	Medical Office Administration	2012-05-01 00:00:00	2	14	Yes	No	0
+11126	1	Train	Chicago	IL	US	60601	Master's			6	17	Yes	No	0
+11148	1	Train	Elwood	IN	US	46036	High School	Not Applicable	2010-03-01 00:00:00	4	3	Yes	No	0
+11211	1	Train	Clovis	CA	US	93613	Associate's	Accounting	2000-05-01 00:00:00	3	16	No	No	0
+11256	1	Train	Spartanburg	SC	US	29301	None			0		No	No	0
+11260	1	Train	Buda	TX	US	78610	Bachelor's		2006-01-01 00:00:00	9	12	Yes	No	0
+11267	1	Train	Kaneohe	HI	US	96744	High School	Not Applicable	2005-01-01 00:00:00	3	8	Yes	Yes	3
+11278	1	Train	Dorchester	MA	US	02121	High School	Accounting and Business/Management	1984-06-01 00:00:00	9	24	Yes	Yes	10
+11316	1	Train	Kemah	TX	US	77565	None			8	31	Yes	No	0
+11348	1	Train	Baltimore	MD	US	21216	Bachelor's	Entrepreneurship/Entrepreneurial Studies	2013-08-01 00:00:00	2	2	Yes	No	0
+11382	1	Train	New Orleans	LA	US	70131	High School	General High School Curriculum	1990-05-01 00:00:00	3	11	No	Yes	10
+11447	1	Test	Columbia	SC	US	29223	High School	Law And Justice	2009-06-01 00:00:00	2	3	No	No	0
+11485	1	Train	Bristol	FL	US	32321	High School	Not Applicable	2002-05-01 00:00:00	2	16	Yes	No	0
+11521	1	Train	Hamilton	OH	US	45013	High School	Not Applicable	1985-01-01 00:00:00	4	21	Yes	No	0
+11529	1	Train	Bronx	NY	US	10472	None		2010-06-01 00:00:00	4	4	Yes	No	0
+11535	1	Train	Derby	KS	US	67037	None	Business Administration and Management, General	1994-05-01 00:00:00	4	7	Yes	Yes	30
+11561	1	Train	Brooklyn	NY	US	11249	Bachelor's	Studio Arts	2009-01-01 00:00:00	6	11	Yes	No	0
+11576	1	Train	Austin	TX	US	78748	Bachelor's	Elementary Education	2012-04-01 00:00:00	3	9	Yes	No	0
+11579	1	Train	West Milford	NJ	US	07480	None			0		Yes	No	0
+11587	1	Train	Fort Worth	TX	US	76179	None		1989-01-01 00:00:00	1	13	No	No	0
+11602	1	Train	Lutz	FL	US	33558	Master's	Individual and Families Therapy	2012-01-01 00:00:00	2	6	No	No	0
+11634	1	Train	Pikesville	MD	US	21208	Master's	Curriculum and Instruction	2012-04-01 00:00:00	4	7	Yes	No	0
+11638	1	Train	Mount Vernon	NY	US	10553	None	Technology	2012-03-01 00:00:00	3	5	Yes	No	0
+11640	1	Train	Las Vegas	NV	US	89108	High School	Not Applicable		5	5	Yes	No	0
+11647	1	Train	Homestead	FL	US	33033	None			3	9	No	No	0
+11660	1	Train	West Chester	PA	US	19382	Bachelor's	Communications	1996-01-01 00:00:00	8	15	Yes	No	0
+11674	1	Train	Louisville	KY	US	40214	High School	Not Applicable	2004-01-01 00:00:00	4	7	Yes	No	0
+11679	1	Train	Evansville	IN	US	47714	High School	Not Applicable	2003-05-01 00:00:00	3	4	No	No	0
+11701	1	Train	Appleton	WI	US	54914	High School	Not Applicable		2	18		No	0
+11714	1	Train	Benton	KS	US	67017	High School	Not Applicable	1983-05-01 00:00:00	5	29	No	No	0
+11739	1	Test	Bowie	MD	US	20716	Bachelor's	Business Administration		10	20	No	No	0
+11742	1	Train	Columbia	SC	US	29201	None		2012-03-01 00:00:00	3	4	Yes	No	0
+11775	1	Train	Riverside	CA	US	92509	High School	Not Applicable	2012-04-01 00:00:00	0		No	No	0
+11781	1	Train	Reno	NV	US	89509	Bachelor's	Marketing/Marketing Management, General	2002-06-01 00:00:00	5	18	No	Yes	15
+11808	1	Train	Yarmouth	ME	US	04096	Bachelor's	Earth Sciences and Finance	2012-05-01 00:00:00	9	5		No	0
+11850	1	Train	Plano	TX	US	75023	High School	General Studies	1980-05-01 00:00:00	4	14	Yes	No	0
+11856	1	Train	Woodbridge	VA	US	22193	None			4	23	No	No	0
+11870	1	Train	San Antonio	TX	US	78213	None	Intensive English Language	2001-01-01 00:00:00	4	9		No	0
+11902	1	Train	Garner	NC	US	27529	Associate's	Industrial Maintenance Curriculum	1986-01-01 00:00:00	5	26	Yes	Yes	12
+11933	1	Train	Glennville	GA	US	30427	Bachelor's	Economics and Accounting	2004-05-01 00:00:00	4	9	Yes	No	0
+11962	1	Train	West Palm Beach	FL	US	33409	None		2012-04-01 00:00:00	5	9		No	0
+11965	1	Train	Jersey City	NJ	US	07302	Master's	Chinese Students and Scholars Association	2009-12-01 00:00:00	3	1	Yes	No	0
+11997	1	Train	Akron	OH	US	44307	Associate's	Marketing and Sales Technology and Advertising	2012-08-01 00:00:00	3	6	Yes	No	0
+12043	1	Train	Hialeah	FL	US	33010	None			2	2	No	No	0
+12062	1	Train	Modesto	CA	US	95356	None			2	1	No	No	0
+12103	1	Train	Miami Gardens	FL	US	33056	Associate's	Business Administration		6	5	Yes	No	0
+12117	1	Train	Virginia Beach	VA	US	23455	None	Anatomy and Physiology	2012-01-01 00:00:00	1	3	Yes	No	0
+12124	1	Train	Newport News	VA	US	23608	High School	Not Applicable	2004-06-01 00:00:00	4	5	No	Yes	10
+12130	1	Train	Richland Hills	TX	US	76118	Bachelor's	Mechanical Engineering	2011-08-01 00:00:00	2	3		No	0
+12153	1	Train	Indianola	IA	US	50125	Master's		2012-05-01 00:00:00	3	4	Yes	No	0
+12174	1	Train	Zionsville	IN	US	46077	None	Advanced Nursing	2002-12-01 00:00:00	3	8	No	No	0
+12189	1	Train	Tallahassee	FL	US	32304	Master's	Emotional Handicapped/Learning Disabilities	2004-05-01 00:00:00	6	14	No	No	0
+12265	1	Test	Lemont	IL	US	60439	Master's	Management	2008-08-01 00:00:00	4	5	Yes	No	0
+12332	1	Train	Raleigh	NC	US	27603	High School		1986-01-01 00:00:00	3	20	No	No	0
+12363	1	Train	Potomac	MD	US	20854	Bachelor's	Finance	2006-12-01 00:00:00	3	5	No	No	0
+12377	1	Train	Alexandria	VA	US	22313	Bachelor's	Human Relations Management Program	2012-03-01 00:00:00	9	12	No	Yes	1
+12384	1	Train	New York	NY	US	10040	Associate's	Medical Administration	2011-01-01 00:00:00	3	5	Yes	No	0
+12393	1	Train	Arlington	TX	US	76012	High School	Not Applicable	2006-11-01 00:00:00	7	11	Yes	Yes	10
+12449	1	Train	Hampton	VA	US	23664	Vocational	TRUCKERS DRIVING TRAINING PROGRAM	1999-12-01 00:00:00	3	11		No	0
+12500	1	Train	Maryville	MO	US	64468	Bachelor's	Biology	2012-05-01 00:00:00	5	4	Yes	No	0
+12511	1	Train	Louisville	KY	US	40220	Bachelor's	Business Administration		4	28	Yes	No	0
+12623	1	Train	Olympia	WA	US	98512	High School	Not Applicable	2008-01-01 00:00:00	2	6	Yes	No	0
+12647	1	Train	Detroit	MI	US	48201	High School	Not Applicable	2008-01-01 00:00:00	4	4	No	No	0
+12655	1	Train	Kansas City	MO	US	64130	High School	Not Applicable	2012-05-01 00:00:00	4	2	No	No	0
+12679	1	Train	Chicago	IL	US	60623	High School	Not Applicable		2	11	Yes	No	0
+12710	1	Train	Yonkers	NY	US	10710	Bachelor's	Sociology	2006-06-01 00:00:00	4	9		No	0
+12762	1	Train	Fresno	CA	US	93703	High School	Not Applicable		4	31	No	Yes	6
+12763	1	Train	Corsicana	TX	US	75110	High School	Not Applicable	1988-01-01 00:00:00	4	24	Yes	No	0
+12778	1	Train	Olathe	KS	US	66062	Bachelor's	Economics	2003-06-01 00:00:00	4	19	Yes	Yes	4
+12779	1	Train	Cincinnati	OH	US	45240	Associate's	Health Care Administration	2012-01-01 00:00:00	3	8	No	No	0
+12786	1	Train	Charlotte	NC	US	28216	Bachelor's		2012-04-01 00:00:00	3	6	No	No	0
+12792	1	Train	Washington	DC	US	20019	None	Customer Service Training	2011-01-01 00:00:00	4	12	Yes	No	0
+12804	1	Train	Jersey City	NJ	US	07307	Associate's	Medical Assisting	2011-01-01 00:00:00	3	8		No	0
+12805	1	Train	Olathe	KS	US	66062	None	Pastoral Studies		5	20		No	0
+12813	1	Test	San Dimas	CA	US	91773	Associate's	Business Administration	2006-01-01 00:00:00	3	36	Yes	No	0
+12837	1	Train	Sycamore	IL	US	60178	Bachelor's	Psychology and Health Education	2008-05-01 00:00:00	3	4	No	No	0
+12866	1	Train	Richmond	VA	US	23228	Bachelor's	Business-Accounting	2009-01-01 00:00:00	6	16	Yes	No	0
+12883	1	Train	Goshen	OH	US	45122	High School	Not Applicable	2005-01-01 00:00:00	1	3	No	No	0
+12885	1	Test	Largo	FL	US	33773	None			2	14		No	0
+12902	1	Train	Brownstown	MI	US	48193	None			3	8		No	0
+12913	1	Train	Ridley Park	PA	US	19078	Master's	Sociology	2012-05-01 00:00:00	4	5	Yes	Yes	1
+12941	1	Test	Indianapolis	IN	US	46227	Bachelor's	English literature		1	0	Yes	No	0
+12950	1	Train	Dallas	TX	US	75236	None		2012-04-01 00:00:00	4	5	Yes	No	0
+12990	1	Train	Centralia	WA	US	98531	Associate's		2012-04-01 00:00:00	7	7	Yes	No	0
+13019	1	Train	Novato	CA	US	94947	None	Forestry and Fire Suppression	1986-01-01 00:00:00	8	24	No	No	0
+13079	1	Train	Allentown	PA	US	18103	High School	Not Applicable	2009-01-01 00:00:00	3	4	Yes	No	0
+13085	1	Train	Omaha	NE	US	68135	None			3	10	No	No	0
+13088	1	Train	Kansas City	MO	US	64114	None	management		5	21	No	No	0
+13132	1	Train	Meriden	CT	US	06451	None	Heating & Refrigeration		2	22	Yes	No	0
+13137	1	Train	Carmichael	CA	US	95608-1869	Bachelor's	Accounting	1988-01-01 00:00:00	0		No	Yes	11
+13203	1	Train	Atlanta	GA	US	30349	High School	Not Applicable		4	7	Yes	No	0
+13270	1	Train	Salisbury	NC	US	28146	Associate's	Accounting	2012-05-01 00:00:00	1	4	Yes	No	0
+13282	1	Train	Fayetteville	NC	US	28306	None			6	29	No	Yes	50
+13325	1	Train	Houston	TX	US	77082	Bachelor's	Finance	2003-05-01 00:00:00	3	9		No	0
+13339	1	Train	Tempe	AZ	US	85282	None	Electrical Engineering	2012-04-01 00:00:00	2	4	Yes	No	0
+13372	1	Train	Pompano Beach	FL	US	33063	Associate's	Computer Engineering, General	2012-03-01 00:00:00	2	3	Yes	No	0
+13408	1	Train	Colorado Springs	CO	US	80915	High School	Not Applicable	2011-03-01 00:00:00	1	0	No	No	0
+13425	1	Train	Hartford	CT	US	06112	Associate's	Computer Science	2003-06-01 00:00:00	4	11	No	No	0
+13443	1	Train	Quincy	FL	US	32351	None	General	1990-01-01 00:00:00	8	22	Yes	No	0
+13485	1	Train	Rochester	NY	US	14619	High School	Not Applicable	2006-09-01 00:00:00	4	5	Yes	No	0
+13502	1	Train	Fairfield	OH	US	45014	High School	Not Applicable	2008-01-01 00:00:00	2	9	Yes	Yes	15
+13615	1	Train	Jacksonville	FL	US	32205	Associate's	Business Administration	2011-01-01 00:00:00	1	2	Yes	No	0
+13622	1	Train	Quincy	MA	US	02169	High School	Not Applicable	1999-01-01 00:00:00	6	10	Yes	Yes	25
+13712	1	Train	Staten Island	NY	US	10302	Master's	Exercise Science program	2012-04-01 00:00:00	5	7		No	0
+13717	1	Train	Tempe	AZ	US	85283	None			3	3	No	No	0
+13742	1	Test	Charlotte	NC	US	28202	Bachelor's	Journalism and Mass Communication	2000-01-01 00:00:00	2	4	No	No	0
+13745	1	Train	Wilmington	DE	US	19801	High School	Not Applicable	2010-01-01 00:00:00	5	9		No	0
+13774	1	Train	Farmington	MI	US	48331	Master's	Communication	2012-04-01 00:00:00	3	6		No	0
+13779	1	Train	Lewisville	TX	US	75057	High School	Not Applicable	2007-01-01 00:00:00	2	4		No	0
+13798	1	Train	Lakeville	MA	US	02347	None	Operations Management	1999-12-01 00:00:00	4	13	Yes	No	0
+13817	1	Train	West Hartford	CT	US	06110	Bachelor's	Civil Engineering	1995-03-01 00:00:00	4	14	No	No	0
+13838	1	Train	Seven Springs	NC	US	28578	High School		2000-01-01 00:00:00	3	14	Yes	Yes	31
+13853	1	Test	Hartford	CT	US	06112	None			5	9	No	No	0
+13872	1	Train	Somerset	NJ	US	08873	High School	Not Applicable	2008-06-01 00:00:00	4	7	Yes	No	0
+13891	1	Train	Nashville	TN	US	37209	Master's		2010-10-01 00:00:00	6	6		No	0
+13930	1	Train	New York	NY	US	10002	Master's	School Psychology	2006-05-01 00:00:00	5	4		No	0
+13931	1	Test	Ansonia	CT	US	06401	Bachelor's	Interdisciplinary Studies	2012-04-01 00:00:00	6	12	No	No	0
+13942	1	Train	Omaha	NE	US	68132	None			7	20	Yes	No	0
+14004	1	Train	Stroudsburg	PA	US	18360	None	HVAC	1999-06-01 00:00:00	7	16	No	No	0
+14024	1	Train	Chicago	IL	US	60615	Master's			5	15		No	0
+14107	1	Train	Tampa	FL	US	33688	None	Architecture		8	22	No	No	0
+14115	1	Train	West Warwick	RI	US	02893	High School			2	9	No	No	0
+14148	1	Train	Phoenix	AZ	US	85051	High School	Not Applicable	1995-01-01 00:00:00	4	14	Yes	Yes	5
+14151	1	Train	Minneapolis	MN	US	55411	None	legal writing, legal research		5	4	No	No	0
+14157	1	Train	Glendale	AZ	US	85301	High School	Not Applicable	2006-01-01 00:00:00	3	5	No	No	0
+14194	1	Train	Elizabeth	NJ	US	07201	Bachelor's	Business Administration	2005-05-01 00:00:00	4	11	No	No	0
+14199	1	Train	Racine	WI	US	53406	Vocational	Electrician and Telecommunications/ Fiber Optics	2010-09-01 00:00:00	10	16	Yes	Yes	25
+14205	1	Train	Hialeah	FL	US	33014	Associate's	Business Administration		5	8	Yes	No	0
+14289	1	Train	Mesa	AZ	US	85202	Associate's	Social Work	2012-03-01 00:00:00	5	7		No	0
+14307	1	Train	Brooklyn	NY	US	11223	Bachelor's	Operations Management / Communications		2	5	Yes	No	0
+14348	1	Train	San Antonio	TX	US	78253	Bachelor's	Management	2011-12-01 00:00:00	8	14	Yes	Yes	60
+14404	1	Train	Long Pond	PA	US	18334	None	Electrical Engineering	2004-01-01 00:00:00	3	19	No	No	0
+14423	1	Train	Louisville	KY	US	40291	High School	Not Applicable	1989-01-01 00:00:00	4	15	Yes	No	0
+14447	1	Train	Saint Louis	MO	US	63129	Bachelor's	Communications		3	9	Yes	No	0
+14455	1	Train	Butler	KY	US	41006	High School	General Studies	1978-06-01 00:00:00	3	31	No	Yes	3
+14516	1	Train	New Castle	IN	US	47362	Bachelor's	Business Administration	1980-05-01 00:00:00	9	29	Yes	Yes	300
+14519	1	Test	Davenport	IA	US	52803	Bachelor's	Health and Human Services Management		7	14	Yes	No	0
+14529	1	Train	Miami	FL	US	33175	Bachelor's	Nursing	2010-05-01 00:00:00	4	9	Yes	No	0
+14548	1	Test	Accokeek	MD	US	20607	None	Business Marketing		5	5	No	No	0
+14569	1	Train	Broadview	IL	US	60155	None			3	15	No	No	0
+14580	1	Train	Jacksonville	FL	US	32246	Bachelor's	Professional Aeronautics	2013-09-01 00:00:00	6	20	Yes	Yes	34
+14581	1	Train	New Philadelphia	OH	US	44663	Bachelor's	Sport and Health Science	2011-08-01 00:00:00	3	26	No	Yes	60
+14607	1	Train	Nashville	TN	US	37211	Bachelor's	E-Business and Supply Chain Management	2011-12-01 00:00:00	5	12	Yes	No	0
+14634	1	Train	Maple Glen	PA	US	19002	High School	Not Applicable	1973-01-01 00:00:00	7	39	Yes	No	0
+14679	1	Train	Auburn	GA	US	30011	High School		1988-06-01 00:00:00	7	23		No	0
+14715	1	Train	Columbia	MO	US	65201	Bachelor's	Journalism		3	6	Yes	No	0
+14729	1	Train	Merrick	NY	US	11566	Bachelor's	Business and Finance	1984-01-01 00:00:00	4	25	Yes	No	0
+14742	1	Train	Allentown	PA	US	18109	Bachelor's	Accounting	2010-03-01 00:00:00	5	6	No	No	0
+14749	1	Train	Irvine	CA	US	92614	Bachelor's	Chemical Engineering	1992-01-01 00:00:00	2	12	Yes	Yes	5
+14776	1	Train	Humble	TX	US	77338	None		2003-01-01 00:00:00	4	8	Yes	No	0
+14783	1	Train	Sunnyvale	TX	US	75182	High School	Not Applicable	2008-01-01 00:00:00	10	9	Yes	No	0
+14787	1	Train	Porter Ranch	CA	US	91326	None			5	16	Yes	Yes	70
+14837	1	Train	Halethorpe	MD	US	21227	Master's	Information Systems		4	5	Yes	No	0
+14840	1	Train	Chicago	IL	US	60629	High School	Not Applicable	2009-06-01 00:00:00	3	6	Yes	No	0
+14854	1	Train	Indianapolis	IN	US	46241	Bachelor's	Marketing and Business Management	2012-05-01 00:00:00	1	7		No	0
+14855	1	Train	Spring	TX	US	77373	Bachelor's	Food Service Management	2009-12-01 00:00:00	3	2	Yes	Yes	10
+14888	1	Test	Patchogue	NY	US	11772	None	Nursing Candidate		2	3	Yes	No	0
+14909	1	Train	NEW DELHI	Delhi	IN		Associate's	Maths, Physics, Chemistry(10+2)	2005-03-01 00:00:00	4	4	Yes	Yes	5
+14937	1	Train	Austin	TX	US	78744	Bachelor's	Health Information Management	2011-12-01 00:00:00	7	24	No	Yes	6
+15041	1	Train	San Diego	CA	US	92109	Bachelor's		2012-05-01 00:00:00	1	3	No	No	0
+15134	1	Train	Elkhart	IN	US	46514	None	Project Management	2011-01-01 00:00:00	4	31		No	0
+15137	1	Train	Orlando	FL	US	32828	Master's	Systems Engineering	2002-05-01 00:00:00	6	27	No	Yes	65
+15144	1	Train	Stanton	CA	US	90680	None			4	11	No	Yes	250
+15164	1	Train	Elm Grove	WI	US	53122	Bachelor's	Communications	2003-05-01 00:00:00	4	9		No	0
+15169	1	Test	Macon	GA	US	31217	PhD		1995-01-01 00:00:00	6	19	Yes	No	0
+15177	1	Train	Aurora	IL	US	60504	Bachelor's	Certification	1996-05-01 00:00:00	5	10	Yes	No	0
+15198	1	Train	Lisle	IL	US	60532	None			4	10	Yes	No	0
+15209	1	Train	Spartanburg	SC	US	29306	High School	Medical Office Assistant/Specialist	1986-01-01 00:00:00	5	17	Yes	Yes	3
+15213	1	Train	Indianapolis	IN	US	46205	High School	Not Applicable	2004-05-01 00:00:00	3	10		No	0
+15232	1	Train	Plantsville	CT	US	06479	None	Nursing Assistance	2009-01-01 00:00:00	0		No	No	0
+15253	1	Train	Green Bay	WI	US	54302	High School	General	2005-06-01 00:00:00	5	5	Yes	No	0
+15256	1	Train	Greenville	SC	US	29611	Bachelor's	Accounting	2012-05-01 00:00:00	6	15	Yes	Yes	40
+15269	1	Train	Norfolk	VA	US	23505	Master's	Biological Science	2012-01-01 00:00:00	3	4	No	No	0
+15272	1	Train	Little Rock	AR	US	72223	PhD		1980-01-01 00:00:00	7	28	No	No	0
+15296	1	Train	Phoenix	AZ	US	85037	High School	Not Applicable	2009-05-01 00:00:00	3	2	Yes	No	0
+15326	1	Train	Hightstown	NJ	US	08520	Bachelor's	Commerce	1979-05-01 00:00:00	6	24	No	No	0
+15329	1	Train	Stamford	CT	US	06905	Master's	Finance	2001-05-01 00:00:00	10	20		No	0
+15394	1	Train	Clawson	MI	US	48017	Master's	Accounting		3	10	Yes	Yes	5
+15430	1	Train	Jacksonville	FL	US	32277	High School	Not Applicable		5	15	No	No	0
+15459	1	Train	Vandalia	OH	US	45377	High School	Not Applicable		7	12	No	No	0
+15460	1	Train	Detroit	MI	US	48227	None		2011-12-01 00:00:00	0		No	No	0
+15473	1	Train	Los Angeles	CA	US	90066	PhD	Clinical Psychology		6	19	Yes	No	0
+15478	1	Train	Aliso Viejo	CA	US	92656	None	Skillpath Time Management Seminar		5	29	Yes	No	0
+15539	1	Train	Los Angeles	CA	US	90019	Bachelor's	Computer Information Systems	2003-01-01 00:00:00	1	1	Yes	No	0
+15551	1	Train	Wernersville	PA	US	19565	High School	Not Applicable	1972-01-01 00:00:00	4	15	Yes	No	0
+15578	1	Train	Maywood	IL	US	60153	High School	Not Applicable	2003-06-01 00:00:00	3	4	No	No	0
+15601	1	Train	Bloomington	IN	US	47408	None	Mathematics Teacher Education	2014-08-01 00:00:00	3	12		No	0
+15618	1	Train	Lake Jackson	TX	US	77566	None			9	12	Yes	No	0
+15620	1	Train	Belleville	NJ	US	07109	None			2	10	No	No	0
+15647	1	Train	Cabin John	MD	US	20818	Bachelor's	Psychology-Cognition	2010-05-01 00:00:00	3	2		No	0
+15654	1	Train	Garden Valley	CA	US	95633	High School	G.E.D	1976-08-01 00:00:00	0		No	Yes	8
+15682	1	Train	Oceanside	CA	US	92057	PhD	Leadership		9	31	No	No	0
+15685	1	Train	Sarasota	FL	US	34231	Associate's	Business Managment	2002-01-01 00:00:00	1	10	No	Yes	25
+15698	1	Train	Malcolm	AL	US	36556	High School	Not Applicable	2010-01-01 00:00:00	3	1	No	No	0
+15725	1	Train	Michigan City	IN	US	46360	Bachelor's	Business Marketing	2011-12-01 00:00:00	2	8	Yes	Yes	3
+15768	1	Train	Ceres	CA	US	95307	High School		1988-01-01 00:00:00	4	11		No	0
+15794	1	Train	Houston	TX	US	77083	None			5	9	Yes	No	0
+15814	1	Train	Harbor City	CA	US	90710	High School	Not Applicable	2006-06-01 00:00:00	4	17		No	0
+15846	1	Train	Dallas	TX	US	75240	Associate's		2010-01-01 00:00:00	4	32	Yes	No	0
+15847	1	Test	Wylie	TX	US	75098	High School	FFA	1971-09-01 00:00:00	7	41	No	No	0
+15917	1	Train	Park City	KS	US	67219	None			1	3	No	Yes	10
+15949	1	Train	Brandon	FL	US	33510	High School		1968-06-01 00:00:00	4	36	Yes	No	0
+15951	1	Train	Harrison Township	MI	US	48045	High School	Not Applicable	2011-01-01 00:00:00	1	0	No	No	0
+15995	1	Train	Maywood	IL	US	60153	High School	Not Applicable	2001-06-01 00:00:00	4	16	Yes	No	0
+16038	1	Train	Riverside	CA	US	92509	None	Medical Coding & Billing		3	2	No	No	0
+16042	1	Train	Hollywood	FL	US	33020	High School	Not Applicable	2006-01-01 00:00:00	4	4	Yes	No	0
+16096	1	Train	Orangeburg	NY	US	10962	Master's		2003-01-01 00:00:00	6	9	Yes	No	0
+16098	1	Train	Duncanville	TX	US	75116	High School	Not Applicable		9	16	Yes	No	0
+16099	1	Train	East Hampton	CT	US	06424	High School	Not Applicable		3	16	No	No	0
+16119	1	Train	Philadelphia	PA	US	19152	None	Dental Hygiene	2012-03-01 00:00:00	2	3	Yes	No	0
+16128	1	Train	Arnaudville	LA	US	70512	Bachelor's	Business Management	2014-07-01 00:00:00	8	16		No	0
+16140	1	Train	Old River-Winfree	TX	US	77520	None			6	23	Yes	No	0
+16145	1	Train	Byron	IL	US	61010	High School	Not Applicable	2004-01-01 00:00:00	2	29		No	0
+16170	1	Train	Penfield	NY	US	14526	Bachelor's	Education, General	2005-01-01 00:00:00	4	8	Yes	No	0
+16223	1	Train	Woodburn	IN	US	46797	Master's	Mathematics	2010-01-01 00:00:00	3	4	No	No	0
+16227	1	Train	Bronx	NY	US	10469	None	Advertising	1981-06-01 00:00:00	1	2	No	Yes	6
+16250	1	Train	Miami	FL	US	33186	High School	Not Applicable		2	3	Yes	No	0
+16266	1	Train	Nashville	TN	US	37211	High School	Not Applicable	1971-05-01 00:00:00	4	24	No	Yes	6
+16276	1	Test	Hyattsville	MD	US	20782	Bachelor's	Criminal Justice	2010-06-01 00:00:00	2	4	No	No	0
+16277	1	Train	Miami	FL	US	33138	None			5	11	Yes	No	0
+16297	1	Train	Crete	IL	US	60417	Bachelor's	Psychology	2006-01-01 00:00:00	2	3	No	No	0
+16311	1	Train	Fort Smith	AR	US	72903	PhD		2011-09-01 00:00:00	1	2		No	0
+16410	1	Train	Dover	DE	US	19901	Associate's	Business	2005-01-01 00:00:00	9	26		No	0
+16416	1	Train	McDonough	GA	US	30252	Master's	Business Administration and Management, General	2010-04-01 00:00:00	6	14	Yes	No	0
+16459	1	Train	Somerset	NJ	US	08873	Bachelor's	Marketing		5	3	Yes	Yes	10
+16476	1	Train	Wilmington	DE	US	19806	None		2007-01-01 00:00:00	5	9	No	No	0
+16484	1	Train	Essex	MD	US	21221	High School	Not Applicable		1	0	No	No	0
+16486	1	Train	Amherst	NH	US	03031	None		1983-01-01 00:00:00	8	28		No	0
+16488	1	Train	Richardson	TX	US	75080	Master's	Business Computer Information System	1991-06-01 00:00:00	7	24	Yes	No	0
+16501	1	Train	Burleson	TX	US	76028	Associate's	Social Work		3	3	No	No	0
+16512	1	Train	Mayfield Heights	OH	US	44124	High School	Not Applicable	2008-06-01 00:00:00	2	1	No	Yes	46
+16526	1	Train	Encinitas	CA	US	92024	High School	Not Applicable		2	17	No	No	0
+16538	1	Train	Bacoli	Napoli	IT		Master's	Mechanical Engineering	2012-03-01 00:00:00	1	1	No	No	0
+16560	1	Train	Defiance	MO	US	63341	Master's	Management		6	33		No	0
+16601	1	Train	Florissant	CO	US	80816	Master's	Physics		9	38	Yes	No	0
+16611	1	Train	Washington	DC	US	20019	None			4	10	Yes	No	0
+16621	1	Train	Dallas	TX	US	75241	Bachelor's	Management		2	4	Yes	No	0
+16630	1	Train	Katy	TX	US	77494	Master's	Educational Leadership	2011-12-01 00:00:00	10	10	Yes	No	0
+16637	1	Train	Chicago	IL	US	60661	Bachelor's	Math and Computer Science	1999-05-01 00:00:00	2	6	No	Yes	20
+16645	1	Train	Atlanta	GA	US	30315	Bachelor's		2003-01-01 00:00:00	5	14	Yes	No	0
+16651	1	Train	Gurnee	IL	US	60031	Master's	Theology	2012-12-01 00:00:00	8	18	Yes	Yes	200
+16725	1	Train	Dallas	TX	US	75241	Associate's		2011-02-01 00:00:00	2	4	No	No	0
+16745	1	Train	Raymore	MO	US	64083	None		1993-12-01 00:00:00	8	13	No	No	0
+16761	1	Train	HYDERABAD	Andhra Pradesh	IN		None			2	11	No	No	0
+16770	1	Train	Yorkville	IL	US	60560	None	Education		2	23		No	0
+16773	1	Train	Apple Valley	MN	US	55124	High School	Not Applicable	1985-06-01 00:00:00	7	26	No	No	0
+16786	1	Train	Channelview	TX	US	77530	High School	Not Applicable	1977-06-01 00:00:00	4	21		No	0
+16788	1	Train	Webster	MN	US	55088	Bachelor's	Business Administration	2012-05-01 00:00:00	3	6	Yes	No	0
+16809	1	Train	Winter Garden	FL	US	34787	High School	Not Applicable	1973-01-01 00:00:00	5	9	No	No	0
+16834	1	Train	Pleasant Hill	MO	US	64080	Bachelor's	Accounting		3	7		No	0
+16844	1	Test	Elmont	NY	US	11003	Bachelor's	Human Resources	2009-01-01 00:00:00	3	6	Yes	No	0
+16872	1	Train	Corydon	IN	US	47112	Bachelor's		1994-01-01 00:00:00	7	18	Yes	No	0
+16877	1	Train	Albany	NY	US	12207	High School	Not Applicable	2008-01-01 00:00:00	1	3	No	No	0
+16951	1	Train	Tucson	AZ	US	85710	High School	Not Applicable	2010-01-01 00:00:00	4	5	No	No	0
+16954	1	Train	Port Clinton	PA	US	19549	None	Supervisory training	2002-05-01 00:00:00	8	23	Yes	No	0
+16977	1	Train	Spokane	WA	US	99208	Bachelor's	Criminal Justice		6	12	No	No	0
+17002	1	Train	Fort Wayne	IN	US	46804	Bachelor's	Accounting	2012-05-01 00:00:00	1	1	No	No	0
+17028	1	Train	Ottawa	IL	US	61350	Bachelor's	Marketing	2011-12-01 00:00:00	3	10	Yes	Yes	2
+17109	1	Train	Chicago	IL	US	60660	Master's	Business Administration (MBA)	2011-07-01 00:00:00	5	8		No	0
+17120	1	Train	Miami	FL	US	33169	Bachelor's	Nursing	2007-01-01 00:00:00	5	15	Yes	No	0
+17132	1	Train	Whitehall	PA	US	18052	High School	Not Applicable	1998-01-01 00:00:00	1	4	Yes	No	0
+17168	1	Train	Rancho Palos Verdes	CA	US	90275	Bachelor's	Economics	2006-06-01 00:00:00	1	5	Yes	Yes	20
+17178	1	Train	Silver Spring	MD	US	20904	None	Business Administration	1997-01-01 00:00:00	5	12	Yes	No	0
+17254	1	Train	Clifton Park	NY	US	12065	Bachelor's	Psychology	2012-05-01 00:00:00	2	5		No	0
+17255	1	Train	Dayton	OH	US	45404	Bachelor's	Social Work	2007-09-01 00:00:00	2	3	Yes	No	0
+17317	1	Train	Justice	IL	US	60458	Bachelor's	Psychology, General	2015-05-01 00:00:00	2	1	No	Yes	12
+17326	1	Train	Fort Worth	TX	US	76135	None			4	6	No	No	0
+17328	1	Test	Lakeland	TN	US	38002	None	Air Force Basic Military Training	2011-05-01 00:00:00	3	13	Yes	No	0
+17343	1	Train	Commerce City	CO	US	80022	Bachelor's	Photography	2010-06-01 00:00:00	2	5		No	0
+17350	1	Train	Wentzville	MO	US	63385	Bachelor's	Marketing and Sales Management	2010-05-01 00:00:00	4	4		No	0
+17403	1	Train	Rock Hill	SC	US	29732	Bachelor's	Business Administration	2012-05-01 00:00:00	4	7	Yes	No	0
+17460	1	Train	O Fallon	MO	US	63368	Bachelor's	Business Administration w/emphasis in Accounting & Finance	2002-07-01 00:00:00	3	18	Yes	No	0
+17468	1	Train	Indianapolis	IN	US	46226	Vocational	GED Classes	2012-04-01 00:00:00	5	3	No	No	0
+17478	1	Train	Miami Gardens	FL	US	33056	None			4	16		No	0
+17483	1	Train	Saint Charles	MO	US	63303	Bachelor's	Finance	1989-01-01 00:00:00	1	23	Yes	No	0
+17496	1	Train	Melbourne	FL	US	32935	High School	Ged	2004-01-01 00:00:00	4	9	No	No	0
+17509	1	Train	Brenham	TX	US	77833	High School	Not Applicable		10	14	Yes	No	0
+17523	1	Train	King of Prussia	PA	US	19406	High School	Not Applicable	1994-01-01 00:00:00	3	8	No	No	0
+17533	1	Train	Woodstock	GA	US	30188	None			5	22	No	No	0
+17534	1	Train	Cupertino	CA	US	95014	Bachelor's	Computer Information Systems	2004-02-01 00:00:00	4	7	No	No	0
+17540	1	Train	Des Moines	IA	US	50320	Associate's	Business Administration	2010-02-01 00:00:00	4	9	Yes	Yes	6
+17575	1	Train	Chicago	IL	US	60621	None	Networking Technology	2011-11-01 00:00:00	3	10	Yes	No	0
+17592	1	Train	Fontana	CA	US	92336	Master's	EDUCATION	1983-01-01 00:00:00	6	32	Yes	Yes	500
+17607	1	Train	Hayward	CA	US	94544	None			0		No	No	0
+17611	1	Train	Overland Park	KS	US	66210	Bachelor's		2006-01-01 00:00:00	10	12		No	0
+17617	1	Train	Sterling	VA	US	20166	Bachelor's	BUSINESS MANAGEMENT		1	1		No	0
+17663	1	Train	Las Vegas	NV	US	89101	None			7	19	Yes	Yes	20
+17669	1	Test	Chandler	AZ	US	85286	None			5	29	Yes	Yes	7
+17691	1	Train	Lexington	SC	US	29072	Associate's	Humanities/Humanistic Studies	2011-07-01 00:00:00	2	2	No	No	0
+17711	1	Train	Saint Louis	MO	US	63123	None			3	24	Yes	Yes	8
+17734	1	Train	Evansville	IN	US	47710	Bachelor's	Elementary Education	2000-12-01 00:00:00	4	19	Yes	No	0
+17881	1	Train	Greensboro	NC	US	27416	Bachelor's	Communications		8	17		No	0
+17894	1	Train	Beckley	WV	US	25801	High School		1990-01-01 00:00:00	4	19	Yes	Yes	16
+17959	1	Train	Fort Lauderdale	FL	US	33313	High School	Business	2014-01-01 00:00:00	4	6	Yes	Yes	5
+17996	1	Train	Montgomery	AL	US	36109	Associate's	Graphic Communications		4	5	Yes	Yes	5
+18001	1	Train	Cary	IL	US	60013	Bachelor's	Earth and Environmental Science	2011-12-01 00:00:00	4	9	Yes	No	0
+18012	1	Train	Milpitas	CA	US	95035	Master's	Computer Engineering	2007-12-01 00:00:00	4	5	Yes	No	0
+18017	1	Train	Olive Branch	MS	US	38654	High School		2006-05-01 00:00:00	4	5	Yes	Yes	6
+18059	1	Train	Milmont Park	PA	US	19033	None			0			No	0
+18063	1	Train	Rancho Santa Margarita	CA	US	92688	Bachelor's	MEDICAL ASSISTANT	2010-01-01 00:00:00	4	3	Yes	No	0
+18079	1	Train	Coventry	RI	US	02816	None			3	17	No	No	0
+18124	1	Train	Louisville	KY	US	40216	High School	Not Applicable	2012-04-01 00:00:00	4	5	No	No	0
+18158	1	Train	Covington	GA	US	30016	High School	Not Applicable	1996-08-01 00:00:00	8	12	Yes	No	0
+18182	1	Train	Collegeville	PA	US	19426	Bachelor's		2000-01-01 00:00:00	4	11	Yes	No	0
+18206	1	Test	Arlington	VA	US	22202	Master's	Urban Planning and Regional Development	2005-01-01 00:00:00	6	7	Yes	Yes	5
+18238	1	Train	Waterbury	CT	US	06705	Vocational	Integrated Avionics Computerized Test Station & Component Spec	1987-11-01 00:00:00	9	33	No	Yes	8
+18251	1	Train	Lynwood	CA	US	90262	High School	Automobile/Automotive Mechanics Technology/Technician	2002-06-01 00:00:00	1	5	No	No	0
+18253	1	Train	Bronx	NY	US	10466	High School	Vocational High School and Secondary Business/Vocational-Industrial/Occupational Diploma Program	2000-06-01 00:00:00	6	8	No	Yes	5
+18261	1	Train	Greenfield	IN	US	46140	High School	Not Applicable	1991-05-01 00:00:00	3	19	Yes	No	0
+18297	1	Train	Woodbury	MN	US	55125	High School	Not Applicable	1983-06-01 00:00:00	1	17		No	0
+18316	1	Train	Fremont	CA	US	94536	High School	Not Applicable		3	32	No	No	0
+18373	1	Train	Knoxville	TN	US	37918	None	Health Information Management	2012-04-01 00:00:00	1	5	No	No	0
+18406	1	Train	Glenwood	IL	US	60425	High School	Not Applicable	1975-01-01 00:00:00	5	33		No	0
+18410	1	Train	Irmo	SC	US	29063	Bachelor's	English	2011-05-01 00:00:00	5	6	Yes	No	0
+18412	1	Train	Wharton	NJ	US	07885	Bachelor's	Church Administration	1985-09-01 00:00:00	4	20		No	0
+18416	1	Train	Brooklyn	NY	US	11234	None		2011-09-01 00:00:00	3	11	Yes	No	0
+18460	1	Train	La Porte	IN	US	46350	High School	Not Applicable		4	14		No	0
+18466	1	Train	Columbus	OH	US	43219	Bachelor's	Human Resources Management	2012-04-01 00:00:00	10	18	Yes	No	0
+18472	1	Train	Stone Mountain	GA	US	30087	High School	General Studies	2006-06-01 00:00:00	4	10	Yes	No	0
+18530	1	Train	Grand Saline	TX	US	75140	High School	Not Applicable	1996-01-01 00:00:00	4	9	Yes	Yes	10
+18537	1	Train	Portland	TN	US	37148	Associate's	Accounting	2008-05-01 00:00:00	7	12	No	No	0
+18541	1	Train	San Diego	CA	US	92106	Bachelor's	BIOLOGY	1973-06-01 00:00:00	8	38	Yes	No	0
+18542	1	Train	Madrid	Madrid	ES		Bachelor's	Interior Design	2009-02-01 00:00:00	3	5	No	No	0
+18553	1	Train	Indianapolis	IN	US	46236	Associate's	Shop Management	2004-07-01 00:00:00	10	24	Yes	No	0
+18588	1	Train	Bushkill	PA	US	18324	Bachelor's	Fashion Merchandising	2012-04-01 00:00:00	5	6	Yes	No	0
+18601	1	Train	New York	NY	US	10019	Bachelor's		1999-04-01 00:00:00	3	5	Yes	No	0
+18635	1	Train	Reno	NV	US	89511	Master's	Business Administration and Management, General	1993-01-01 00:00:00	10	21	No	Yes	10
+18647	1	Test	Miami	FL	US	33196	Master's	Marketing	2005-01-01 00:00:00	5	16	Yes	Yes	350
+18651	1	Train	Dallas	TX	US	75236	Bachelor's	Criminal Justice	2011-01-01 00:00:00	7	5	Yes	Yes	10
+18698	1	Train	South Lyon	MI	US	48178	High School		2001-06-01 00:00:00	5	12	No	No	0
+18761	1	Train	Tampa	FL	US	33647	Associate's	Medical Assistant	2010-06-01 00:00:00	6	8	Yes	No	0
+18793	1	Train	Quincy	MA	US	02169	Bachelor's	Accounting	1991-06-01 00:00:00	4	21	Yes	No	0
+18817	1	Test	Atlanta	GA	US	30312	None	Engineering and Criminal Justice	2012-03-01 00:00:00	2	5	No	No	0
+18824	1	Train	Ridgefield	NJ	US	07657	None			4	10	Yes	No	0
+18829	1	Train	Sumner	WA	US	98390	Associate's	General	2007-01-01 00:00:00	6	6	Yes	No	0
+18844	1	Train	Appleton	WI	US	54914	Bachelor's	Medical Technology	2009-05-01 00:00:00	3	13	Yes	No	0
+18911	1	Train	Red Oak	TX	US	75154	High School	Education Level	1972-05-01 00:00:00	4	35	No	No	0
+18928	1	Train	Greer	SC	US	29651	Bachelor's	Computer Engineering	2008-12-01 00:00:00	5	25	No	No	0
+18950	1	Test	Winter Springs	FL	US	32708	None		2003-01-01 00:00:00	2	5		No	0
+18965	1	Train	Chicago	IL	US	60659	None			3	7	Yes	No	0
+18990	1	Train	Hayward	CA	US	94544	None	Medical Assistant	2004-03-01 00:00:00	3	8	No	No	0
+18998	1	Train	Kearney	NE	US	68845	Bachelor's	Business Education	2006-05-01 00:00:00	4	8	Yes	Yes	2
+19041	1	Train	Fort Lauderdale	FL	US	33334	None			7	10	Yes	No	0
+19042	1	Train	Baltimore	MD	US	21214	None			0			No	0
+19069	1	Train	Aloha	OR	US	97007	High School	Not Applicable	1975-05-01 00:00:00	3	7	No	No	0
+19070	1	Train	Daly City	CA	US	94015	Bachelor's	Civil Engineering	2012-03-01 00:00:00	3	5	Yes	Yes	2
+19121	1	Train	Little Rock	AR	US	72209	None	Business Administration and Information Systems	2009-02-01 00:00:00	7	6	No	Yes	4
+19152	1	Train	Bay Minette	AL	US	36507	Associate's		2011-12-01 00:00:00	4	2	No	No	0
+19190	1	Train	Bronx	NY	US	10455	High School	Not Applicable	2001-01-01 00:00:00	6	10	No	Yes	30
+19202	1	Train	Kansas City	MO	US	64133	High School	Not Applicable		0		No	No	0
+19215	1	Train	Houston	TX	US	77006	None			4	6	Yes	No	0
+19232	1	Train	Pocasset	MA	US	02559	Bachelor's	Economics of Transportation	2009-06-01 00:00:00	6	12	No	Yes	10
+19251	1	Train	Washington	DC	US	20037	Master's	Computer Science	2012-05-01 00:00:00	2	2	Yes	No	0
+19265	1	Train	Puyallup	WA	US	98374	None			4	4	Yes	No	0
+19275	1	Train	Akron	OH	US	44314	High School	Not Applicable	1992-01-01 00:00:00	6	13	Yes	No	0
+19280	1	Train	Aurora	OH	US	44202	Master's	Tax Law/Taxation (LL		6	6	Yes	No	0
+19307	1	Train	Terre Haute	IN	US	47804	Associate's	Business Management	2011-12-01 00:00:00	2	12		No	0
+19316	1	Train	Floreffe	Namen	BE		Master's	Architecture	2012-04-01 00:00:00	2	3	No	No	0
+19324	1	Train	Los Angeles	CA	US	90015	Bachelor's	Biology	2010-01-01 00:00:00	4	15	No	No	0
+19351	1	Train	Gordonsville	VA	US	22942	Associate's	Business Administration		10	31	Yes	No	0
+19381	1	Train	Stone Mountain	GA	US	30087	None	Business Administration	1972-01-01 00:00:00	3	39	Yes	No	0
+19383	1	Train	Fort Worth	TX	US	76132	Master's	Construction Management		4	16	No	No	0
+19396	1	Train	Dayton	OH	US	45405	None			0		No	No	0
+19449	1	Train	Philadelphia	PA	US	19130	None			0		Yes	No	0
+19480	1	Train	Lexington	SC	US	29073	Bachelor's		2007-01-01 00:00:00	6	12	Yes	No	0
+19510	1	Train	San Leandro	CA	US	94577	None		2005-12-01 00:00:00	2	5	No	No	0
+19517	1	Train	Harrison	NJ	US	07029	None	Hospitality Management	2010-01-01 00:00:00	5	22	Yes	No	0
+19518	1	Train	Bradenton	FL	US	34207	High School	Not Applicable	1988-01-01 00:00:00	3	29	Yes	No	0
+19529	1	Train	Raleigh	NC	US	27616	None			6	7	Yes	No	0
+19557	1	Train	Kansas City	MO	US	64118	Bachelor's	Heating, Air Conditioning, and Refrigeration Mechanic	2011-01-01 00:00:00	4	7	No	No	0
+19558	1	Train	Greensboro	NC	US	27405	Master's	Health Care Administration		4	8	No	No	0
+19569	1	Train	Apopka	FL	US	32712	Bachelor's	Electronics Engineering Technology	1996-01-01 00:00:00	7	22	Yes	No	0
+19575	1	Train	Saint Louis	MO	US	63123	Bachelor's	Business Administration		4	26	No	No	0
+19601	1	Train	Bethlehem	PA	US	18017	PhD		2012-05-01 00:00:00	8	6	Yes	No	0
+19671	1	Train	Fort Wayne	IN	US	46804	None	General High School Curriculum	2011-01-01 00:00:00	7	8	Yes	No	0
+19705	1	Test	Detroit	MI	US	48223	High School	Not Applicable	2010-06-01 00:00:00	3	4	Yes	No	0
+19717	1	Train	Dallas	TX	US	75227	Master's	Business Administration	2004-01-01 00:00:00	4	15		No	0
+19777	1	Train	Grand Rapids	MI	US	49503	Master's	Cell & Molecular Biology	2009-12-01 00:00:00	4	4	Yes	No	0
+19790	1	Train	New York	NY	US	10009	Bachelor's	Graduate Diploma of Chartered Accounting (Equivalent to CPA)	2008-05-01 00:00:00	4	7	No	Yes	4
+19799	1	Train	Cleveland	OH	US	44113	PhD		2011-05-01 00:00:00	8	7	Yes	No	0
+19807	1	Train	Jonesboro	GA	US	30236	Master's	Marriage and Family Therapy	2011-09-01 00:00:00	9	18	Yes	Yes	2
+19826	1	Train	Tampa	FL	US	33610	High School		2010-06-01 00:00:00	1	0	No	No	0
+19874	1	Train	Boynton Beach	FL	US	33435	Bachelor's	Social Sciences		5	12	Yes	No	0
+19882	1	Train	Winchester	KY	US	40391	High School	General Studies	2010-05-01 00:00:00	2	5	Yes	No	0
+19889	1	Train	Hartford	CT	US	06112	None	Advanced Culinary Arts Program		3	8	Yes	No	0
+19894	1	Train	Lubbock	TX	US	79415	Bachelor's	Sociology	2011-01-01 00:00:00	6	18	Yes	No	0
+19941	1	Train	Gainesville	FL	US	32608	Master's	Industrial & Systems Engineering	2010-08-01 00:00:00	3	4	No	No	0
+19966	1	Train	Dallas	TX	US	75243	None	NURSING	2011-03-01 00:00:00	3	7	Yes	No	0
+19980	1	Train	MUMBAI	Maharashtra	IN		None		2002-01-01 00:00:00	5	8	No	No	0
+20019	1	Train	Plainfield	NJ	US	07060	Master's	Management	2012-06-01 00:00:00	10	4	Yes	Yes	8
+20083	1	Train	Debary	FL	US	32713	None	Electronics		8	27	Yes	No	0
+20091	1	Train	Concord	OH	US	44077-8528	Bachelor's	Psychology	1998-01-01 00:00:00	6	18		No	0
+20121	1	Train	Houston	TX	US	77095-4606	Bachelor's	Psychology	2001-05-01 00:00:00	5	9		No	0
+20142	1	Train	Ponca City	OK	US	74601	High School	Not Applicable	2004-05-01 00:00:00	10	7	Yes	Yes	18
+20146	1	Train	Davenport	IA	US	52804	None	Certified Nursing Coursework		4	6	No	No	0
+20164	1	Train	Roanoke	TX	US	76262	High School	Not Applicable		5	14		No	0
+20177	1	Train	Montgomery	AL	US	36117	Bachelor's	Accounting	1988-06-01 00:00:00	8	25	No	No	0
+20278	1	Train	Chandler	AZ	US	85224	None			4	7	Yes	No	0
+20297	1	Train	Pueblo	CO	US	81001	Master's		2012-04-01 00:00:00	5	9	No	No	0
+20346	1	Train	Mastic	NY	US	11950	Vocational	Customer Service and Telecommunications	1998-11-01 00:00:00	6	27	No	Yes	6
+20353	1	Train	Farmington Hills	MI	US	48334	Bachelor's	Mechanical Engineering		4	12	Yes	Yes	2
+20360	1	Test	Chicago	IL	US	60629	None		2009-06-01 00:00:00	4	4	No	No	0
+20363	1	Train	Indianapolis	IN	US	46205	None		2012-06-01 00:00:00	0		No	No	0
+20379	1	Train	Charlotte	NC	US	28208	None			0		No	No	0
+20381	1	Train	Theodore	AL	US	36582	High School	General Studies	1984-05-01 00:00:00	2	28		No	0
+20465	1	Train	Bethlehem	PA	US	18015	None			0		No	No	0
+20487	1	Train	Hartville	OH	US	44632	High School	Not Applicable		4	9	Yes	No	0
+20528	1	Train	Columbia	SC	US	29226	None			4	7		No	0
+20550	1	Train	Farmington	MI	US	48335	High School	Not Applicable	1999-06-01 00:00:00	4	12	Yes	No	0
+20562	1	Train	Chicago	IL	US	60654	Bachelor's	Management	2000-05-01 00:00:00	4	12	Yes	No	0
+20585	1	Train	Huntington Beach	CA	US	92647	Bachelor's	Business Administration	1978-06-01 00:00:00	4	31		No	0
+20607	1	Train	Kissimmee	FL	US	34744	Associate's	Network Administration/Hardware with Wireless Technology	2008-05-01 00:00:00	4	4	No	No	0
+20682	1	Train	New Castle	IN	US	47362	Associate's	Network Administration	2012-03-01 00:00:00	2	7	Yes	No	0
+20685	1	Train	New York	NY	US	10029	None			2	8	No	No	0
+20688	1	Train	Dallas	TX	US	75353	Bachelor's	Economics and Finance		8	25	Yes	No	0
+20708	1	Train	Wichita	KS	US	67212	High School	Not Applicable	2011-01-01 00:00:00	3	3		No	0
+20743	1	Train	Carnegie	PA	US	15106	Bachelor's	Sociology	2007-01-01 00:00:00	4	3		No	0
+20760	1	Train	Irving	TX	US	75039	None			8	21	No	No	0
+20820	1	Train	Albuquerque	NM	US	87113	High School	Not Applicable	2007-01-01 00:00:00	4	5		No	0
+20851	1	Train	Deltona	FL	US	32738	High School	Not Applicable	2001-01-01 00:00:00	2	6	Yes	No	0
+20860	1	Train	North Providence	RI	US	02911	Bachelor's	Accounting		4	17	Yes	Yes	10
+20883	1	Train	Hialeah Gardens	FL	US	33018	Bachelor's	Accounting in Progress	2012-12-01 00:00:00	2	6	Yes	No	0
+20903	1	Train	Oviedo	FL	US	32766	Bachelor's	Psychology		4	6	Yes	No	0
+20906	1	Train	Saint Louis	MO	US	63136	None			4	17	No	No	0
+20911	1	Train	Muncie	IN	US	47302	None		1994-05-01 00:00:00	3	21		No	0
+20915	1	Train	Philadelphia	PA	US	19120	High School	Not Applicable	2006-06-01 00:00:00	6	6	Yes	Yes	2
+20932	1	Train	Deerfield	NY	US	13502	Associate's	Human Services and Nursing Curriculum	2012-02-01 00:00:00	3	4	Yes	No	0
+20947	1	Train	Hayward	CA	US	94545	High School	Not Applicable		8	11	Yes	No	0
+20971	1	Train	Tehachapi	CA	US	93561	Master's	Public Health	1976-01-01 00:00:00	8	31	No	Yes	200
+20992	1	Train	Chicago	IL	US	60628	High School	Student Leadership	2007-06-01 00:00:00	3	3	No	No	0
+21007	1	Train	Suffolk	VA	US	23434	Bachelor's	Sociology	1975-05-01 00:00:00	3	12	Yes	Yes	20
+21048	1	Train	Indianapolis	IN	US	46224	Bachelor's	Automotive Technology where I am	2013-04-01 00:00:00	1	0	Yes	No	0
+21049	1	Train	Durham	NC	US	27713	Master's	Analytical Chemistry	2008-08-01 00:00:00	2	6	No	No	0
+21070	1	Train	Toledo	OH	US	43614	None	Criminal Justice		3	6	Yes	No	0
+21087	1	Train	Pembroke Pines	FL	US	33026	None	Computer Network Technician	2012-06-01 00:00:00	2	9	No	Yes	2
+21116	1	Train	Patchogue	NY	US	11772	Bachelor's	Business Administration		1	12	Yes	No	0
+21123	1	Train	Houston	TX	US	77077	High School	GED	1992-01-01 00:00:00	10	13	Yes	Yes	5
+21156	1	Train	Breinigsville	PA	US	18031	Bachelor's	French	2012-05-01 00:00:00	4	7	No	No	0
+21176	1	Test	Upper Darby	PA	US	19082	High School	Not Applicable	2010-01-01 00:00:00	2	2	No	No	0
+21193	1	Train	San Antonio	TX	US	78251	Master's			5	4	Yes	No	0
+21215	1	Train	Lebanon	IL	US	62254	Bachelor's	Sociology	2008-08-01 00:00:00	4	8	Yes	No	0
+21247	1	Test	Fort Worth	TX	US	76179	Associate's	Business Administration, Management and Operations, Other	2004-03-01 00:00:00	8	20	Yes	Yes	20
+21271	1	Train	Enumclaw	WA	US	98022	None			5	13	No	No	0
+21309	1	Train	Columbus	OH	US	43201	Bachelor's	Communication	2012-06-01 00:00:00	0			No	0
+21312	1	Train	Plainfield	IL	US	60586	High School	Not Applicable	1989-01-01 00:00:00	2	11	No	Yes	175
+21314	1	Train	Indianapolis	IN	US	46227	Bachelor's		2012-03-01 00:00:00	5	11	Yes	No	0
+21334	1	Train	West Springfield	MA	US	01089	None	Emergency Medical Technician-Basic	2011-01-01 00:00:00	3	8	No	No	0
+21349	1	Train	Beachwood	NJ	US	08722	Bachelor's	Business Administration	1996-12-01 00:00:00	2	12	No	No	0
+21370	1	Train	Glenwood	IL	US	60425	High School	Not Applicable	2012-05-01 00:00:00	1	1	Yes	No	0
+21381	1	Test	Saint Louis	MO	US	63141	Bachelor's	Political Science/ Public Management	2005-05-01 00:00:00	4	7	Yes	Yes	120
+21391	1	Train	Warwick	RI	US	02886	None			2	3	Yes	No	0
+21394	1	Train	Murfreesboro	TN	US	37129	Bachelor's	Business Management	2010-12-01 00:00:00	6	8	Yes	No	0
+21413	1	Train	Denver	CO	US	80210	Bachelor's	Integrative Physiology	2011-01-01 00:00:00	6	9	Yes	No	0
+21432	1	Train	Baton Rouge	LA	US	70817	Bachelor's	Nursing	2005-01-01 00:00:00	6	6	Yes	No	0
+21500	1	Train	Chicago	IL	US	60637	Master's	Clinical Social Work	2012-04-01 00:00:00	5	5	Yes	No	0
+21507	1	Train	Windsor Heights	IA	US	50324	Bachelor's	Accounting	2010-08-01 00:00:00	0		No	No	0
+21537	1	Train	Hollywood	FL	US	33024	High School	Not Applicable		7	8		No	0
+21548	1	Train	Marietta	GA	US	30066	Bachelor's	Psychology	2012-05-01 00:00:00	2	7	Yes	No	0
+21573	1	Train	Riverside	CA	US	92507	High School	Not Applicable	1982-01-01 00:00:00	6	30	Yes	No	0
+21615	1	Train	Forest City	NC	US	28043	High School	Not Applicable	1998-01-01 00:00:00	1	14	No	No	0
+21618	1	Train	Galesburg	IL	US	61401	High School	Not Applicable	2004-12-01 00:00:00	3	6	Yes	No	0
+21657	1	Train	Radcliff	KY	US	40160	Bachelor's	Business Administration		6	14	Yes	Yes	15
+21665	1	Train	Phoenix	AZ	US	85015	Associate's	Paralegal Studies	2005-01-01 00:00:00	3	9	Yes	No	0
+21719	1	Train	Alexandria	VA	US	22312	Master's	Clinical Psychology	2011-06-01 00:00:00	5	8	Yes	No	0
+21752	1	Train	Versailles	KY	US	40383	Bachelor's	Science Construction Technology	1986-12-01 00:00:00	3	21	Yes	No	0
+21819	1	Train	Brooklyn	NY	US	11208	Associate's	Information Technology	2011-06-01 00:00:00	2	2	No	No	0
+21821	1	Train	Brighton	MI	US	48116	Bachelor's	Political Science		8	22	Yes	No	0
+21887	1	Train	Sartell	MN	US	56377	None			5	13	No	No	0
+21955	1	Train	Tacoma	WA	US	98445	Bachelor's	Business Administration	1991-12-01 00:00:00	5	19		No	0
+21984	1	Train	Orlando	FL	US	32830	Bachelor's		2012-05-01 00:00:00	5	26	Yes	No	0
+21990	1	Train	Springfield	MO	US	65804	High School	Not Applicable	2008-08-01 00:00:00	3	3	No	No	0
+21994	1	Train	Lindon	UT	US	84042	High School	Not Applicable	1989-01-01 00:00:00	1	7	Yes	Yes	15
+22023	1	Train	Fishers	IN	US	46037	Bachelor's	Agronomy	1998-01-01 00:00:00	8	20	Yes	No	0
+22034	1	Train	Saint Louis	MO	US	63136	Bachelor's	Communications	2005-05-01 00:00:00	5	16	Yes	No	0
+22104	1	Train	Horsham	PA	US	19044	None		2012-05-01 00:00:00	3	6	Yes	No	0
+22137	1	Train	Waretown	NJ	US	08758	High School	Not Applicable	1994-06-01 00:00:00	5	9	Yes	No	0
+22203	1	Train	Saint Petersburg	FL	US	33709	High School	Not Applicable		7	14		No	0
+22220	1	Train	New Buffalo	MI	US	49117	Bachelor's	Sociology	1994-05-01 00:00:00	1	2	No	No	0
+22241	1	Train	Willowbrook	IL	US	60527	Master's	MBA		3	6	Yes	Yes	150
+22256	1	Train	Davie	FL	US	33328	Master's	Business and Technology	2010-08-01 00:00:00	4	12	Yes	Yes	4
+22287	1	Train	Norwich	CT	US	06360	Master's	Casework	2012-05-01 00:00:00	10	3	Yes	No	0
+22300	1	Train	Tacoma	WA	US	98465	High School	Not Applicable	2008-01-01 00:00:00	1	2	No	No	0
+22301	1	Train	La Puente	CA	US	91744	Bachelor's	Marketing		4	5	Yes	No	0
+22341	1	Train	Lincoln	NE	US	68521	Associate's	Wind Energy	2012-05-01 00:00:00	4	13	No	No	0
+22358	1	Train	Riverdale	GA	US	30296	High School	Not Applicable	2006-03-01 00:00:00	2	6	No	Yes	10
+22360	1	Train	Watchung	NJ	US	07069	Bachelor's	Biology	2006-12-01 00:00:00	3	6		No	0
+22392	1	Train	New York	NY	US	10013	PhD		2006-01-01 00:00:00	2	5	Yes	No	0
+22393	1	Train	Palm Bay	FL	US	32907	High School	Not Applicable	2011-05-01 00:00:00	3	2	Yes	No	0
+22396	1	Train	La Grange	IL	US	60525	Bachelor's	Finance	2010-05-01 00:00:00	3	5	No	No	0
+22410	1	Train	Birmingham	AL	US	35211	None	Education, General	2013-05-01 00:00:00	4	7	No	No	0
+22445	1	Train	Nashville	TN	US	37207	High School	Not Applicable		3	10		No	0
+22478	1	Train	Camarillo	CA	US	93010	High School	Not Applicable		1	8	No	No	0
+22525	1	Train	Houston	TX	US	77084	Associate's		2012-09-01 00:00:00	2	6	No	Yes	5
+22607	1	Train	Londonderry	NH	US	03053	None			2	2		No	0
+22679	1	Train	Philadelphia	PA	US	19154	Associate's	Business Administration		6	19	No	No	0
+22687	1	Train	Cincinnati	OH	US	45238	Associate's	Licensed Practical/Vocational Nurse Training (LPN, LVN, Cert	2007-12-01 00:00:00	3	11	Yes	Yes	3
+22707	1	Train	Tulsa	OK	US	74145	Bachelor's	Special Education / Speech Pathology	1987-01-01 00:00:00	3	23	Yes	No	0
+22709	1	Train	Augusta	KY	US	41002	High School	Not Applicable	2010-06-01 00:00:00	3	3	No	No	0
+22743	1	Train	Phoenix	AZ	US	85040	None			4	12	No	No	0
+22772	1	Train	Philadelphia	PA	US	19121	Associate's	Human Service Management	2011-01-01 00:00:00	9	9	Yes	No	0
+22780	1	Train	Mount Clemens	MI	US	48043	High School	General Studies	1994-06-01 00:00:00	7	17	No	No	0
+22789	1	Train	Hampton	VA	US	23666	Bachelor's	Human Resources	2013-01-01 00:00:00	4	18	Yes	Yes	30
+22802	1	Train	Oshkosh	WI	US	54901	Bachelor's	Hospitality Management	2012-06-01 00:00:00	5	5	No	Yes	4
+22816	1	Train	Altamonte Springs	FL	US	32714	High School	Nursing Assistant Program	2006-02-01 00:00:00	4	11	No	No	0
+22817	1	Train	Bloomfield	NJ	US	07003	None			3	10	No	No	0
+22874	1	Train	Panama City	FL	US	32405	High School		2009-03-01 00:00:00	4	2	No	No	0
+22880	1	Train	Taylor	MI	US	48180	Associate's	Culinary Arts/Chef Training	2004-06-01 00:00:00	4	16	Yes	Yes	25
+22900	1	Train	Philadelphia	PA	US	19143	None			3	2	Yes	No	0
+22911	1	Train	Richmond	VT	US	05477	None		1986-01-01 00:00:00	2	18	Yes	No	0
+22915	1	Train	Willow Spring	NC	US	27592	High School		1986-06-01 00:00:00	2	13	No	No	0
+22939	1	Train	Fort Wayne	IN	US	46816	High School	Not Applicable	1988-06-01 00:00:00	4	15	Yes	No	0
+22943	1	Train	Austin	TX	US	78758	Bachelor's	Business Administration Management	2011-12-01 00:00:00	3	6		No	0
+22962	1	Train	Carrier Mills	IL	US	62917	None			10	10	No	No	0
+22999	1	Train	Spring	TX	US	77388	Bachelor's	Health Care Administration	2004-12-01 00:00:00	6	14	Yes	Yes	60
+23012	1	Train	Chattanooga	TN	US	37406	Bachelor's	Psychology	1994-01-01 00:00:00	10	19		No	0
+23069	1	Train	capital federal		AR		Bachelor's	Actuario	2015-12-01 00:00:00	1	1	No	No	0
+23082	1	Train	Orlando	FL	US	32824	Associate's		2000-05-01 00:00:00	4	18	Yes	No	0
+23125	1	Train	Eldersburg	MD	US	21784	Bachelor's	Sociology	2012-05-01 00:00:00	6	11		No	0
+23144	1	Train	Rolla	MO	US	65401	PhD	Materials Science and Engineering	2012-05-01 00:00:00	5	7	No	No	0
+23151	1	Train	Fort Wayne	IN	US	46825	Vocational	Legal Administration	1997-06-01 00:00:00	3	15	Yes	Yes	3
+23156	1	Train	Warren	MI	US	48088	None	Numerous Business Management		2	34	No	No	0
