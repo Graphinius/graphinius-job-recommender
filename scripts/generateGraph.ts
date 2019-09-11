@@ -15,20 +15,22 @@ const v4 = uuid.v4;
 (async () => {
   const g = new TypedGraph('job recommender BIG');
   
+  let tic = +new Date();
   createUsers(g);
   console.log(g.stats);
   console.log(g.n('user_47'));
-
   createJobs(g);
   console.log(g.stats);
   console.log(g.n('job_169528'));
-
   createApps(g);
   console.log(g.stats);
-
-  let tic = +new Date();
-  BFS(g, g.getRandomNode());
   let toc = +new Date();
+  console.log(`Constructing ~1.4M node, ~1.6M edge graph took ${toc - tic} ms.`);
+
+
+  tic = +new Date();
+  BFS(g, g.getRandomNode());
+  toc = +new Date();
   console.log(`BFS on ~3M object graph took ${toc-tic} ms.`);
 
   tic = +new Date();
@@ -42,9 +44,15 @@ const v4 = uuid.v4;
   console.log(`PFS on ~3M object graph took ${toc-tic} ms.`);
 
   tic = +new Date();
-  new Pagerank(g).computePR();
-  toc = +new Date();
-  console.log(`Pagerank on ~1.4M  node graph took ${toc-tic} ms.`);
+  const pr = new Pagerank(g);
+  toc = +new Date();  
+  console.log(`Constructing Pagerank datastructs on ~1.4M  node graph took ${toc-tic} ms.`);
+
+
+  tic = +new Date();
+  pr.computePR();
+  toc = +new Date();  
+  console.log(`Computing Pagerank on ~1.4M  node graph took ${toc-tic} ms.`);
 })();
 
 
@@ -59,9 +67,9 @@ function createUsers(g: TypedGraph) {
     const line_arr = line.split('\t');
 
     const node = g.addNodeByID('user_' + line_arr[0], { type: 'User' });
-    // for (let i = 1; i < users_columns.length; i++) {
-    //   node.setFeature(users_columns[i], line_arr[i]);
-    // }
+    for (let i = 1; i < users_columns.length; i++) {
+      node.setFeature(users_columns[i], line_arr[i]);
+    }
   });
 }
 
@@ -93,9 +101,9 @@ function createJobs(g: TypedGraph) {
       }
 
       node = g.addNodeByID(jid, { type: 'Job' });
-      // for (let i = 1; i < jobs_columns.length; i++) {
-      //   node.setFeature(jobs_columns[i], line_arr[i]);
-      // }
+      for (let i = 1; i < jobs_columns.length; i++) {
+        node.setFeature(jobs_columns[i], line_arr[i]);
+      }
       jobIDs[jid] = true;
     });
 
@@ -110,6 +118,7 @@ function createApps(g: TypedGraph) {
   const allAppsFile = path.join(__dirname, `../data/original/apps.tsv`);
   let line_arr = [], a, b;
   let nr_edges = 0;
+  let edge = null;
   
   const file = fs.readFileSync(allAppsFile).toString().split('\n');
   file.shift();
@@ -122,7 +131,10 @@ function createApps(g: TypedGraph) {
 
     if ( a && b ) {
       // console.log(`Adding edge between user_${line_arr[0]} and job_${line_arr[line_arr.length - 1]}`);
-      g.addEdgeByID(v4(), a, b, { type: 'APPLIED_TO' });
+      edge = g.addEdgeByID(v4(), a, b, { type: 'APPLIED_TO' });
+      for (let i = 1; i < apps_columns.length - 1; i++) {
+        edge.setFeature(apps_columns[i], line_arr[i]);
+      }
       if ( ++nr_edges % 10000 === 0 ) {
         console.log('added edges: ', nr_edges);
       }

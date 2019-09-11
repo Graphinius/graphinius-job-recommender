@@ -4,12 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "gen": "node --max_old_space_size=12192 -r ts-node/register scripts/generateGraph.ts"
+    "gen": "node --max_old_space_size=16384 -r ts-node/register scripts/generateGraph.ts"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "graphinius": "^0.9.8",
     "restify": "^8.4.0",
     "uuid": "^3.3.3"
   },
